@@ -2,7 +2,7 @@
 
 ## 우리의 약속
 
-`claude-sermon-skills` 프로젝트는 **모든 정통 기독교 교파의 목회자·신학생·평신도**가 안전하고 유익하게 참여할 수 있는 공간을 지향합니다.
+`cys-claude-sermon-skills` 프로젝트는 **모든 정통 기독교 교파의 목회자·신학생·평신도**가 안전하고 유익하게 참여할 수 있는 공간을 지향합니다.
 
 ## 권장하는 태도
 
@@ -31,7 +31,7 @@
 
 ## 신고
 
-행동 강령 위반 사례는 [GitHub Issues](https://github.com/idoforgod/claude-sermon-skills/issues) 또는 메인테이너에게 직접 비공개로 알려 주시기 바랍니다.
+행동 강령 위반 사례는 [GitHub Issues](https://github.com/idoforgod/cys-claude-sermon-skills/issues) 또는 메인테이너에게 직접 비공개로 알려 주시기 바랍니다.
 
 ## 인용
 

@@ -47,8 +47,8 @@
 macOS·Linux 터미널을 열고 아래 한 줄을 붙여넣어 실행하세요. 클론 → 설치 → 검증이 한 번에 끝납니다.
 
 ```bash
-git clone https://github.com/idoforgod/claude-sermon-skills.git ~/claude-sermon-skills \
-  && cd ~/claude-sermon-skills \
+git clone https://github.com/idoforgod/cys-claude-sermon-skills.git ~/cys-claude-sermon-skills \
+  && cd ~/cys-claude-sermon-skills \
   && bash scripts/install.sh \
   && bash scripts/verify.sh
 ```
@@ -65,8 +65,8 @@ git clone https://github.com/idoforgod/claude-sermon-skills.git ~/claude-sermon-
 
 ```bash
 # 1. 저장소 클론
-git clone https://github.com/idoforgod/claude-sermon-skills.git
-cd claude-sermon-skills
+git clone https://github.com/idoforgod/cys-claude-sermon-skills.git
+cd cys-claude-sermon-skills
 
 # 2. ~/.claude/skills/ 에 심볼릭 링크
 bash scripts/install.sh
@@ -95,7 +95,7 @@ Claude.ai 인터페이스에서는 스킬을 **개별 업로드** 또는 **프�
 # 개별 스킬을 ZIP으로 패키징
 bash scripts/package.sh
 
-# → dist/ 폴더에 sermon-*.zip 20개와 claude-sermon-skills-all.zip 1개 생성
+# → dist/ 폴더에 sermon-*.zip 20개와 cys-claude-sermon-skills-all.zip 1개 생성
 ```
 
 생성된 ZIP 파일을 Claude.ai의 [프로젝트(Projects)](https://claude.ai/projects)에 업로드하거나, 대화창에 직접 첨부하시면 됩니다. 자세한 단계는 [`docs/INSTALLATION.md`](./docs/INSTALLATION.md)를 참고하세요.
@@ -666,7 +666,7 @@ Each skill is documented in three sections — *What it is*, *When to use*, *Key
 ## 📁 저장소 구조 · Repository Structure
 
 ```
-claude-sermon-skills/
+cys-claude-sermon-skills/
 ├── README.md                  이 문서 / This document
 ├── LICENSE                    MIT 라이선스 / MIT license
 ├── CHANGELOG.md               변경 이력 / Release history

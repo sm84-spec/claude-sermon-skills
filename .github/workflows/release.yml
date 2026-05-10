@@ -35,22 +35,22 @@ jobs:
         run: |
           {
             echo 'NOTES<<RELEASE_EOF'
-            echo "## claude-sermon-skills ${{ env.VERSION }}"
+            echo "## cys-claude-sermon-skills ${{ env.VERSION }}"
             echo ""
             echo "릴리스 일자: ${{ env.RELEASE_DATE }}"
             echo ""
             echo "### 다운로드"
             echo ""
-            echo "- **claude-sermon-skills-${{ env.VERSION }}-all.zip** — 20개 skill 전체 묶음 (권장)"
+            echo "- **cys-claude-sermon-skills-${{ env.VERSION }}-all.zip** — 20개 skill 전체 묶음 (권장)"
             echo "- **개별 skill ZIP** — 필요한 skill만 골라서 사용"
             echo ""
             echo "### 설치"
             echo ""
             echo '```bash'
             echo "# 전체 설치"
-            echo "curl -L -O https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/claude-sermon-skills-${{ env.VERSION }}-all.zip"
-            echo "unzip claude-sermon-skills-${{ env.VERSION }}-all.zip"
-            echo "cd claude-sermon-skills-${{ env.VERSION }}"
+            echo "curl -L -O https://github.com/${{ github.repository }}/releases/download/${{ env.VERSION }}/cys-claude-sermon-skills-${{ env.VERSION }}-all.zip"
+            echo "unzip cys-claude-sermon-skills-${{ env.VERSION }}-all.zip"
+            echo "cd cys-claude-sermon-skills-${{ env.VERSION }}"
             echo "bash scripts/install.sh"
             echo '```'
             echo ""

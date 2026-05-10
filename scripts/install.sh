@@ -35,7 +35,7 @@ while [[ $# -gt 0 ]]; do
     --force)   FORCE=1;       shift ;;
     -h|--help)
       cat <<EOF
-${BOLD}claude-sermon-skills installer${RESET}
+${BOLD}cys-claude-sermon-skills installer${RESET}
 
 Usage:
   bash scripts/install.sh [options]
