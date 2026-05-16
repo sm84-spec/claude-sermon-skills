@@ -47,6 +47,21 @@ description: "성경 한 구절을 신·구약 주요 고대 사본으로 비교
 
 이 원칙들을 적용한 결론은 항상 **확정이 아닌 학술적 평가**임을 명시한다 — "더 가능성이 높다"·"학계 다수설"·"여전히 논쟁 중" 등.
 
+## 신약 본문비평 방법론 (Methodological Frame)
+
+NA28의 본문 결정 방법론을 사용자가 묻거나 학술적 깊이가 필요하면 다음을 설명한다.
+
+| 방법론 | 약어 | 특징 |
+|--------|------|------|
+| Reasoned Eclecticism (이성적 절충주의) | (학계 주류) | 외부·내부 증거를 함께 평가. Metzger·Aland 주류 입장. NA28 본문 결정의 기본 |
+| Thoroughgoing Eclecticism (철저한 절충주의) | (Kilpatrick·Elliott) | 내부 증거(저자 문체·문맥)에 더 가중. 소수 입장 |
+| Documentary/Genealogical Method | (Westcott-Hort 19세기) | 사본 계열의 계통도 추적. 오늘날 CBGM으로 갱신 |
+| **CBGM** (Coherence-Based Genealogical Method) | CBGM | Gerd Mink (INTF Münster) 개발. ECM 본문 결정의 알고리즘. 컴퓨터로 사본 간 *coherence*(증거 일관성) 정량 평가. **NA28에서 공동서신(약·벧전·벧후·요1·요2·요3·유다)·사도행전 본문 결정에 적용됨**. NA29에서 마가복음 적용 예정 |
+| 비잔틴 우선 입장 (Byzantine Priority) | (Hodges-Farstad·Robinson-Pierpont) | 비잔틴 다수 사본 우선. *The Greek New Testament According to the Majority Text* (1985), *The New Testament in the Original Greek: Byzantine Textform* (2005, 개정 2018) |
+| TR (Textus Receptus) | TR | 1516 Erasmus 초판. 1633 Elzevir판이 "Textus Receptus" 명명. KJV의 그리스어 본문. 학술적으로는 비평본에 의해 대체 |
+
+**ECM (Editio Critica Maior)**: INTF Münster 주관 신약 비평본 대작업. 공동서신(2nd ed. 2013), 사도행전(2017), 요한복음(진행 중), 마가복음(진행 중). NA28의 공동서신 본문은 ECM과 일치. ECM이 출판된 책은 **ECM이 NA28보다 더 정밀한 1차 자료**다.
+
 ## 본문 유형별 사본군 자동 선택
 
 본문이 신약인지 구약인지에 따라 활용 사본군이 달라진다.
@@ -55,34 +70,72 @@ description: "성경 한 구절을 신·구약 주요 고대 사본으로 비교
 
 | 그룹 | 사본 | 약어 | 연대 | 계열 |
 |------|------|------|------|------|
-| 파피루스 | P46 (바울서신) | 𝔓⁴⁶ | c. 200 | Alex |
+| 파피루스 | P45 (사복음·행 단편) | 𝔓⁴⁵ | c. 250 | Alex (자유로움) |
+| 파피루스 | P46 (바울서신) | 𝔓⁴⁶ | c. 200 (혹은 c. 175-225) | Alex |
 | 파피루스 | P52 (요 18:31-33, 37-38 단편) | 𝔓⁵² | c. 125 (학계 표준; Nongbri 등은 c. 100-175 범위 가능성도 제기) | — |
-| 파피루스 | P66 (요한복음 대부분) | 𝔓⁶⁶ | c. 200 | Alex |
+| 파피루스 | P66 (요한복음 대부분) | 𝔓⁶⁶ | c. 200 | Alex (혼합) |
+| 파피루스 | P72 (벧전·벧후·유다) | 𝔓⁷² | 3-4세기 | Alex |
+| 파피루스 | P74 (행·공동서신·계 단편) | 𝔓⁷⁴ | 7세기 | Alex |
 | 파피루스 | P75 (눅·요 일부) | 𝔓⁷⁵ | c. 175-225 | Alex |
-| 대문자 | 시내 사본 | ℵ (Aleph) | 4세기 (c. 330-360) | Alex |
-| 대문자 | 바티칸 사본 | B | 4세기 (c. 300-325) | Alex |
-| 대문자 | 알렉산드리아 사본 | A | 5세기 | 복음서는 비잔틴, 그 외 책들은 알렉산드리아 |
-| 대문자 | 에브라임 사본 | C | 5세기 | 혼합 |
-| 대문자 | 베자 사본 | D | 5세기 | 서방(Western) |
+| 대문자 | 시내 사본 | ℵ / 01 (Aleph) | 4세기 (c. 330-360) | Alex |
+| 대문자 | 바티칸 사본 | B / 03 | 4세기 (c. 300-325) | Alex |
+| 대문자 | 알렉산드리아 사본 | A / 02 | 5세기 | 복음서는 비잔틴, 그 외 책들은 알렉산드리아 |
+| 대문자 | 에브라임 사본 (Codex Ephraemi Rescriptus) | C / 04 | 5세기 | 혼합 |
+| 대문자 | 베자 사본 (Codex Bezae Cantabrigiensis) | D / 05 (Dea) | 5세기 | 서방(Western) — 그리스어/라틴어 이중어, 복음서·행 |
+| 대문자 | 클라로몬타누스 (Codex Claromontanus) | Dp / 06 | 6세기 | 서방 — 바울서신 그리스어/라틴어 |
+| 대문자 | 워싱턴 사본 (Codex Washingtonianus / Freer Gospels) | W / 032 | 4-5세기 | 복합 (사복음, 마가 16장 후 *Freer Logion* 포함) |
+| 대문자 | 코리데티 사본 (Codex Koridethi) | Θ / 038 | 9세기 | 카이사레아 계열 대표 (특히 막) |
+| 대문자 | 레기우스 사본 (Codex Regius) | L / 019 | 8세기 | 알렉산드리아 친화적 |
+| 대문자 | 아토스 라우라 사본 (Codex Athous Laurensis) | Ψ / 044 | 8/9세기 | 혼합 (복음서 후반·사도행전·서신·계) |
+| 대문자 | 라우다누스 (Codex Laudianus, 사도행전 그리스어/라틴어) | E / 08 (Eapr) | c. 550 (6세기) | 서방 영향 (행에서 특히 가치) |
+| 미누스큘 | Codex 33 ("미누스큘의 여왕") | 33 | 9세기 | 알렉산드리아 (복음서 외 책에서) |
+| 미누스큘 | Codex 81 | 81 | 1044년 (연대 명시) | 알렉산드리아 (행·서신) |
+| 미누스큘 | Codex 1739 | 1739 | 10세기 | Alex 친화적 (바울서신, Origen 등 교부 노트 포함) |
+| 가족 사본 | Family 1 (1, 118, 131, 209 등) | f¹ | 12-14세기 사본군 | 카이사레아 친화 (요 7:53-8:11을 요 21장 뒤로 이동) |
+| 가족 사본 | Family 13 ("Ferrar group", 13, 69, 124, 230 등) | f¹³ | 11-15세기 사본군 | 카이사레아 친화 (요 7:53-8:11을 눅 21:38 뒤로 이동) |
 | 비잔틴 | 비잔틴 다수 사본 | Byz / 𝔐 | 5–15세기 | 비잔틴 |
-| 원시 번역본 | Old Latin | it / VL | 2–4세기 | 서방 |
-| 원시 번역본 | Vulgata (4세기 제롬) | vg | 4세기 | — |
+| Lectionary | 그리스어 성구집 (약 2,400여 종) | ℓ (italic L) | 8세기 이후 | 주로 비잔틴 (예: ℓ299, ℓ547) |
+| 원시 번역본 | Old Latin (Vetus Latina) | it / VL | 2–4세기 | 서방 |
+| 원시 번역본 | Vulgata (4세기 제롬) | vg | 4세기 (vg-cl Clementine·vg-ww Wordsworth-White·vg-st Stuttgart) | — |
+| 원시 번역본 | Syriac Old (Sinaitic·Curetonian) | syr^s / syr^c | 4-5세기 사본 (본문 2-3세기) | — |
 | 원시 번역본 | Syriac Peshitta | syr^p | 5세기 | — |
-| 원시 번역본 | Coptic (사히드/보하이르) | cop | 3–4세기 | Alex |
+| 원시 번역본 | Syriac Harklean | syr^h | 616년 | 비잔틴 친화 |
+| 원시 번역본 | Coptic (사히드 sa·보하이르 bo) | cop / sa / bo | 3-4세기 | Alex |
+| 원시 번역본 | Armenian | arm | 5세기 (이후 사본) | Alex/카이사레아 친화 |
+| 원시 번역본 | Ethiopic (Ge'ez) | eth | 6세기 이후 | 혼합 |
+| 원시 번역본 | Georgian | geo | 5-6세기 (Adysh 등) | 카이사레아 친화 |
+| 원시 번역본 | Gothic (Ulfilas) | got | 4세기 (Codex Argenteus 6세기) | 비잔틴 초기형 |
 
-본문에 따라 적용 사본을 선택. 예: 요한복음 비교 → P66, P75, ℵ, B, A, D, vg, cop 등.
+본문에 따라 적용 사본을 선택. 예: 요한복음 비교 → P66, P75, ℵ, B, A, D, W, Θ, L, vg, cop 등. 마가복음 후반 → W (Freer Logion 포함)이 결정적. **NA28 critical apparatus가 1차 근거**이며, 사도행전·공동서신 등 *Editio Critica Maior* (ECM)가 출판된 책은 ECM 우선.
 
 ### 구약 본문일 때
 
 | 그룹 | 사본 | 약어 | 연대 | 특징 |
 |------|------|------|------|------|
-| 사해사본 | 1QIsaᵃ, 4QSamᵃ 등 | DSS | BC 3세기 – AD 1세기 | 가장 오래된 히브리어 사본 |
-| 마소라 본문 | 알레포 사본·레닌그라드 사본 | MT (BHS) | 10–11세기 | 표준 마소라 |
-| 사마리아 오경 | (오경만) | SP | 11세기 사본 (전통은 더 오래됨) | 마소라와 약 6,000곳 차이 |
-| 70인역 | 시내·바티칸·알렉산드리아 사본 | LXX | BC 3–2세기 번역, 4–5세기 사본 | 헬라어 번역, 신약이 자주 인용 |
-| 타르굼 | 옹켈로스·요나단 등 | Tg | AD 2세기 이후 | 아람어 의역·해설 |
-| Vulgata | (제롬, 히브리어에서) | vg | 4세기 | 라틴어 |
-| Syriac | 페시타 구약 | syr | 2–4세기 | |
+| 사해사본 | 1QIsaᵃ (대 이사야 두루마리, 완전) | 1QIsaᵃ | BC 125년경 (방사성탄소 BC 335-122, 고체학 BC 150-100) | 가장 잘 보존된 DSS |
+| 사해사본 | 1QIsaᵇ (소 이사야 두루마리, 부분) | 1QIsaᵇ | BC 1세기 후반 | 마소라에 더 근접 |
+| 사해사본 | 4QSamᵃ, 4QSamᵇ, 4QSamᶜ | 4QSamᵃ⁻ᶜ | BC 3세기 후반 – BC 1세기 | LXX와 가까운 사무엘서 (4QSamᵃ 특히) |
+| 사해사본 | 4QDeutⱼ, 4QDeutᵍ 등 | 4QDeut* | BC 2–1세기 | 신 32:8 "하나님의 아들들" 보존 |
+| 사해사본 | 11Q5 (= 11QPsa, 시편 두루마리) | 11Q5 | AD 1세기 초 | 시 145:13b NUN절 보존, 시편 비정경 시 포함 |
+| 사해사본 | Naḥal Ḥever, Masada, Wadi Murabbaʿat | (지역명) | BC 1세기 – AD 2세기 | 마소라 원형(proto-Masoretic) |
+| 사해사본 | DJD (Discoveries in the Judaean Desert) | DJD I-XL | 1955-2009 출판 | 표준 비평본 출판 (Oxford University Press) |
+| 마소라 사본 | Codex Cairensis (카이로 예언서 사본) | C / Codex Cairensis | 895년 (전통; Aron ben Asher 일가 작품) | 후기 예언서·전기 예언서. 1983년 학계 일부는 11세기 재평가 제안 |
+| 마소라 사본 | Aleppo Codex (알레포 사본) | A (HMB) | c. 925-935년 (Aron ben Asher 가족 본) | BHS *위첨자 A로 인용*. 1947년 알레포 폭동으로 약 40% (창세기 대부분·신명기 일부·후기 예언서 일부) 소실. 현재 이스라엘 박물관 |
+| 마소라 사본 | Leningradensis B19A (레닌그라드 사본) | L / EBP I B19a | 1008/1009년 (성경 전체 보존 가장 오래된 마소라 사본) | BHS·BHQ·BHL의 기본 본문. 상트페테르부르크 러시아 국립도서관 |
+| 마소라 사본 | Damascus Pentateuch | (Damascus Pent.) | 10세기 | 오경 |
+| 마소라 본문 표준 | Bombergiana / 미크라옷 그돌롯 (Jacob ben Chayyim) | mb / TR-OT | 1524-25년 (Daniel Bomberg, Venice) | 구약 *Textus Receptus*, KJV·루터 성경 기반 |
+| 마소라 본문 표준 | BHS (Biblia Hebraica Stuttgartensia) | BHS | 1967-77 / 1997 5판 | Leningradensis 기반, 표준 비평본 |
+| 마소라 본문 표준 | BHQ (Biblia Hebraica Quinta) | BHQ | 2004- (점진 출판) | BHS 후속 (편집 19권 예정) |
+| 사마리아 오경 | (오경만) | SP | 가장 오래된 사본 12-13세기 (전통은 더 오래됨; Abisha Scroll 전통상 BC 13세기) | 마소라와 약 6,000곳 차이 |
+| 70인역 | LXX 비평본 — Göttingen Septuaginta | LXX (Göttingen) | 1931- (점진 출판) | 표준 비평본, 책별 분권 |
+| 70인역 | LXX 비평본 — Rahlfs-Hanhart (1935, 개정 2006) | LXX (Rahlfs²) | 2006 (Hanhart 개정) | 휴대용 표준판 |
+| 70인역 | 시내·바티칸·알렉산드리아 사본의 LXX 부분 | LXX (ℵ, B, A) | 4-5세기 사본 (번역 BC 3-2세기) | 헬라어 번역, 신약이 자주 인용 |
+| 70인역 | Origen *Hexapla*의 4번째 열 (LXX) — Field 1875 *Hexapla* 재구성 | Hex / Field | AD 3세기 (남은 단편) | LXX 본문사 재구성 핵심 |
+| 타르굼 | Targum Onkelos (오경) | Tg-O | AD 2세기 이후 (편집형 5-6세기) | 비교적 직역 |
+| 타르굼 | Targum Pseudo-Jonathan (오경) | Tg-PsJ | AD 7-8세기 | 강한 의역·아가다 |
+| 타르굼 | Targum Jonathan (선지서) | Tg-J | AD 2세기 이후 | |
+| Vulgata 구약 | 제롬 *Hebraica Veritas* (히브리어에서 직역) | vg-Hebr | 4세기 (390-405) | 라틴어 |
+| Syriac | 페시타 구약 | syr / Pesh-OT | 2–4세기 | Leiden Peshitta Institute 비평본 진행 중 |
 
 구약 본문은 **MT vs LXX 차이**가 가장 자주 발생한다. 사해사본이 발견된 본문은 그 비교가 핵심.
 
@@ -235,6 +288,33 @@ description: "성경 한 구절을 신·구약 주요 고대 사본으로 비교
 - **신천지·여호와의증인식 본문 조작 주장**: 그들이 본문비평을 자기 신학 정당화에 오용하는 경우가 있다. 명확히 거리.
 - **음모론적 주장**: "바티칸이 성경을 조작했다", "콘스탄티누스가 본문을 바꿨다" 등의 음모론 차단.
 
+### 할루시네이션 차단 자동 검증 도구 — Python Fact-Check
+
+응답 작성 후 반드시 다음 도구로 사본 사실 주장의 정합성을 검증한다.
+
+**도구 위치**:
+- `scripts/verify_facts.py` — 응답 텍스트에서 사본 사실 주장을 추출해 references DB와 대조
+- `references/manuscript-facts.json` — NA28·UBS5·BHS·Aland & Aland·Metzger & Ehrman·Tov 등 1차 자료에서 추출한 사본 메타데이터 사실 DB
+
+**사용 방법**:
+```bash
+# 응답을 파일로 저장 후 검증
+python3 skills/sermon-textual-criticism/scripts/verify_facts.py response.md
+
+# 또는 stdin으로 직접 전달
+echo "$RESPONSE" | python3 skills/sermon-textual-criticism/scripts/verify_facts.py
+```
+
+**검증 항목 (6개)**:
+1. 사본 사실 주장 식별 및 DB 매칭 (시내·바티칸·베자·P46·P75 등 + Aleppo·Leningradensis·1QIsa 등)
+2. 연대 사실 검증 (시내 사본 4세기 vs 5세기, P75 BC vs AD 등 흔한 오류)
+3. G1 단정형 표현 검출 ("원본은 분명히", "확정적으로" 등)
+4. G6 Metzger 등급 단언 검출 ("{A} 등급" 단언 패턴)
+5. 사본 명칭 함정 검출 ("라이덴 사본" 등 가짜 명칭)
+6. 학술 디지털 자료 URL 검증 (NTVMR·codexsinaiticus.org 등 화이트리스트)
+
+도구는 1건 이상 결함 발견 시 비영(non-zero) exit code를 반환한다. 결함이 0건일 때까지 응답을 수정한다. 이 도구는 LLM의 자기 검증을 보조하며, 응답 생성 후 반드시 한 번 통과시킨다.
+
 ### 학술적 정직 — 할루시네이션 방지 7원칙
 
 - **G1. 확정 vs 추정 구분**: 본문비평적 결론은 거의 항상 확률적 평가다. "원본은 분명히 ~였다"고 단정하지 않는다.
@@ -258,15 +338,40 @@ description: "성경 한 구절을 신·구약 주요 고대 사본으로 비교
 
 학술서 추천이 적절할 때:
 
-- **표준 입문서**: Bruce M. Metzger & Bart D. Ehrman, *The Text of the New Testament* (4th ed.)
-- **NT 본문비평 표준 비평본**: NA28 (Nestle-Aland 28th edition), UBS5 (United Bible Societies 5th edition)
-- **OT 본문비평**: Emanuel Tov, *Textual Criticism of the Hebrew Bible* (3rd ed.)
-- **해설서**: Bruce M. Metzger, *A Textual Commentary on the Greek New Testament* (UBS)
-- **한국어**: 민영진, 김창락 등 한국 본문비평 학자의 저서 (검색 가능 시 추천)
-- **온라인 자료 (신약)**: INTF (Institut für Neutestamentliche Textforschung) 사이트의 NTVMR (New Testament Virtual Manuscript Room) — ntvmr.uni-muenster.de
-- **온라인 자료 (구약 사해사본)**: Leon Levy Dead Sea Scrolls Digital Library (deadseascrolls.org.il, Israel Antiquities Authority); Israel Museum Digital Dead Sea Scrolls (dss.collections.imj.org.il)
-- **온라인 자료 (시내 사본)**: Codex Sinaiticus Project (codexsinaiticus.org) — 영국 도서관·라이프치히 대학·러시아 국립도서관·시내산 성 카타리나 수도원 4기관 공동 디지털판
-- **온라인 자료 (바티칸 사본)**: Vatican Library Digital Library (digi.vatlib.it) — Codex Vaticanus (Vat.gr.1209) 디지털 열람
+### 비평본 (1차 자료)
+- **NT**: NA28 (Nestle-Aland 28th, 2012), UBS5 (United Bible Societies 5th, 2014)
+- **NT 대작업**: ECM (Editio Critica Maior) — 공동서신 2판 (2013), 사도행전 (2017), 요한복음·마가복음 진행 중. INTF Münster
+- **OT**: BHS (Biblia Hebraica Stuttgartensia, 1967-77/1997), BHQ (Biblia Hebraica Quinta, 2004-, 점진 출판), HUBP (Hebrew University Bible Project) — 알레포 사본 기반 비평본
+- **LXX**: Göttingen Septuaginta (1931- 점진 출판) — 책별 분권 비평본 / Rahlfs-Hanhart (2006) — 휴대용 표준판
+- **Peshitta OT**: Leiden Peshitta Edition (Leiden Peshitta Institute, 1972- 점진 출판)
+- **Vulgata**: Stuttgart Vulgate (Weber-Gryson 5판, 2007), Wordsworth-White (1889-1954, 옥스퍼드)
+
+### 표준 입문서·해설서
+- **NT 입문**: Bruce M. Metzger & Bart D. Ehrman, *The Text of the New Testament: Its Transmission, Corruption, and Restoration* (4th ed., Oxford, 2005)
+- **NT 사본학**: Kurt Aland & Barbara Aland, *The Text of the New Testament* (2nd ed., Eerdmans, 1995)
+- **NT 해설서**: Bruce M. Metzger, *A Textual Commentary on the Greek New Testament* (UBS, 2nd ed., 1994)
+- **NT CBGM**: Tommy Wasserman & Peter J. Gurry, *A New Approach to Textual Criticism: An Introduction to the Coherence-Based Genealogical Method* (SBL/SCS 80, 2017)
+- **OT 입문**: Emanuel Tov, *Textual Criticism of the Hebrew Bible* (3rd ed., Fortress, 2012)
+- **사본 카탈로그**: David C. Parker, *An Introduction to the New Testament Manuscripts and Their Texts* (Cambridge, 2008)
+- **한국어**: 민영진, 김창락, 박동현 등 한국 본문비평 학자 저서 (검색 가능 시 추천)
+
+### 온라인 1차 디지털 자료
+
+**신약**:
+- **NTVMR** (New Testament Virtual Manuscript Room, INTF Münster) — ntvmr.uni-muenster.de
+- **CSNTM** (Center for the Study of New Testament Manuscripts, Dan Wallace, Dallas) — csntm.org
+- **Codex Sinaiticus Project** (codexsinaiticus.org) — 영국 도서관·라이프치히 대학·러시아 국립도서관·시내산 성 카타리나 수도원 4기관 공동
+- **Vatican Library Digital Library** (digi.vatlib.it) — Codex Vaticanus (Vat.gr.1209)
+- **Cambridge University Library Digital** (cudl.lib.cam.ac.uk) — Codex Bezae (MS Nn.II.41)
+- **Chester Beatty Library** (chesterbeatty.ie) — P45, P46, P47
+- **ECM 디지털판** (intf.uni-muenster.de) — 공동서신·사도행전
+
+**구약**:
+- **Leon Levy Dead Sea Scrolls Digital Library** (deadseascrolls.org.il, Israel Antiquities Authority)
+- **Israel Museum Digital Dead Sea Scrolls** (dss.collections.imj.org.il) — 1QIsaᵃ 등
+- **Aleppo Codex** (aleppocodex.org) — Ben-Zvi Institute
+- **Leningrad Codex** (사진 디지털판; West Semitic Research Project) — usc.edu/dept/LAS/wsrp
+- **Polonsky Foundation Catalogue of Digitised Medieval Manuscripts** (medieval.bodleian.ox.ac.uk) — 마소라 사본 포함
 
 ## 오류·예외 처리
 

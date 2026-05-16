@@ -9,9 +9,11 @@
 ### 1.1 전체 설교 추산
 - **약 2,000편 이상** — Denis Raguenier(속기사)가 1549년부터 1564년 칼빈 사망까지 기록한 설교 추산치.
 - 1549년 *이전* 설교(1538년 스트라스부르 시기 포함)는 대부분 기록되지 않았다.
-- **현존하는 사본**: 약 1,500편 미만 (필사본 일부 분실·매각·소실).
-- **출처**: T.H.L. Parker, *Calvin's Preaching* (Edinburgh: T&T Clark, 1992; 미국판 Westminster John Knox, 1992).
-- **주의**: 일부 자료에서 "2,300편" 또는 "2,500편" 추산도 보이나, 학계 합의는 "2,000편 이상"이 보수적이며 정확한 표현이다.
+- **현존하는 사본**: 학계 추정 **약 700~1,000편 (전체의 약 1/3 ~ 절반)**. 학계에 통용되는 보수적 표현은 *"전체 약 2,000편 중 절반 이상이 분실되었다"*다.
+  - **1805년 분실 사건**: 제네바 공립도서관(Bibliothèque Publique)이 칼빈 설교 사본 다수를 *지역 서점에 매각*, 상당량이 흩어졌다.
+  - **1928년 재발견**: Hanns Rückert(라이프치히 대학 교수)가 제네바 공립도서관에서 *14권의 필사본*을 재발견하여 *Supplementa Calviniana* 비평본 사업이 시작.
+- **출처**: T.H.L. Parker, *Calvin's Preaching* (Edinburgh: T&T Clark, 1992; 미국판 Westminster John Knox, 1992); Modern Reformation 학술 에세이 *"Lost and Found: Calvin's Sermons on the Scrap Heap"*; Elsie McKee, "Calvin's Sermons: Treasure and Surprise" (*The Expository Times* 122 [2009]).
+- **주의**: 일부 자료에서 "2,300편" 또는 "2,500편" 추산도 보이나, 학계 합의는 "2,000편 이상"이 보수적이며 정확한 표현이다. *현존 약 1,500편 미만*은 분실 사실을 충분히 반영하지 못한 후한 표기이므로 *약 1,000편 안팎(전체의 약 1/3 ~ 절반 현존)*이 더 정확하다.
 
 ### 1.2 Denis Raguenier 속기사
 - **고용 시점**: 1549년, Bourse française des étrangers(프랑스 난민 구제 기금)가 채용.

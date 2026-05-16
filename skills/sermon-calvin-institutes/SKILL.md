@@ -46,8 +46,8 @@ description: "존 칼빈(John Calvin, 1509–1564)의 『기독교 강요(Instit
   - Beveridge 역 (Edinburgh, 1845) — 공유 도메인, 인터넷 무료 접근
 - **표준 한국어판**: 
   - 김종흡·신복윤·이종성·한철하 공역 (생명의말씀사, 1986–1988, 4권) — 한국 개혁주의 표준 번역
-  - 원광연 역 (크리스천다이제스트, 2003, 2권) — 학술 정밀
-  - 문병호 역 (총신대학교출판부 / 생명의말씀사, 2020년대 신간) — 최신 학술 (출판 정보가 판본별로 다르니 사용 시 확인 권장)
+  - 원광연 역 (크리스천다이제스트 / CH북스, 2003년 4월, 전3권 — 상·중·하) — 학술 정밀
+  - 문병호 역 *기독교 강요: 1559년 라틴어 최종판 직역* (생명의말씀사, 2020년 6월, 전4권) — 최신 라틴어 직역. 5,200여 항목 각주, 3,500여 라틴어 단어 해설, 1536→1559 판본 일람표 수록.
 
 ## 1559판 4권 80장 전체 구조 (Master Map)
 
@@ -155,6 +155,25 @@ description: "존 칼빈(John Calvin, 1509–1564)의 『기독교 강요(Instit
 | 4.20 | **국가 정부 — 두 왕국론(*duo regimina*)** |
 
 각 장 학습 시 위 정보를 활용. 인용 시 표준 표기는 *"Inst. 1.1.1"* 또는 *"강요 1.1.1"* (권.장.절).
+
+### references 등재 10장 vs 미등재 70장
+
+본 스킬은 환각 위험을 최소화하기 위해 강요 80장 중 **신학적 분기점 10장**을 `references/key-quotes-by-chapter.md`에 정밀 등재했다:
+
+| 영역 | 등재 장 |
+|------|---------|
+| 인식론·말씀론 | **1.1** (인식의 상관), **1.7** (성령의 내적 증거) |
+| 인간론 | **2.2** (노예 의지) |
+| 기독론 | **2.15** (삼중직) |
+| 구원의 적용 | **3.1** (그리스도 연합), **3.11** (이신칭의), **3.21** (영원한 선택, +3.23.7 *decretum horribile*) |
+| 교회론·성례·국가 | **4.1** (참된 교회), **4.17** (성찬 영적 임재), **4.20** (두 왕국론) |
+
+이 10장은 핵심 인용·라틴어 원문 위치(Inst. 권.장.절)·자주 묶이는 학자 저서가 외부 학계 자료(WorldCat·Cambridge Core·OUP·CCEL 등)로 1차 검증된 정밀 항목.
+
+**미등재 70장 학습 시 정책**:
+- 칼빈 사상의 paraphrase는 가능하되, **"칼빈이 X라고 말했다"** 식 직접 인용은 만들어 내지 말 것.
+- 정확한 출처(권.장.절)를 모르면 *"강요의 일반 사상에 따르면"*으로 우회.
+- 사용자가 정확한 인용을 강하게 원하면 *"공식 영문판(Battles역) 또는 한국어 표준역(김종흡 외 / 원광연 / 문병호 역) 또는 CCEL 무료 Beveridge 영역에서 직접 확인 권장"* 으로 안내.
 
 ## 핵심 운영 원칙
 
@@ -332,11 +351,31 @@ description: "존 칼빈(John Calvin, 1509–1564)의 『기독교 강요(Instit
 
 ### 칼빈 신학에 대한 흔한 오해 차단
 
-- **칼빈 ≠ TULIP**: 1618–19년 도르트 총회(Synod of Dort)는 아르미니우스주의에 대한 답으로 **라틴어 5교리(Five Articles against the Remonstrants)** 를 채택했다. 그 5교리(전적 타락·무조건적 선택·제한적 속죄·불가항력적 은혜·성도의 견인)를 영어 두문자어 **TULIP**으로 정리한 것은 **20세기 초 영어권**의 후대 정착이다(가장 이른 활자 등장은 Loraine Boettner의 1932년 *The Reformed Doctrine of Predestination* 등). 따라서 TULIP은 칼빈 본인이 만든 표어가 아니며, 도르트 회의가 만든 표어도 아니다. 칼빈 본인의 가르침과 큰 흐름은 일치하나 두문자어의 역사적 기원을 정확히 알릴 것.
+- **칼빈 ≠ TULIP**: 1618년 11월 13일–1619년 5월 9일 도르트 총회(Synod of Dort/Dordrecht)는 아르미니우스 후예(Remonstrants, *Remonstrantie* 1610년 5조항)에 대한 답으로 **라틴어 5교리(Canons of Dort, Five Articles against the Remonstrants)** 를 채택했다(1619년 4월 23일 모든 대표 서명, 5월 6일 도르드레흐트 Grote Kerk 낭독). 그 5교리(전적 타락·무조건적 선택·제한적 속죄·불가항력적 은혜·성도의 견인)를 영어 두문자어 **TULIP**으로 정리한 것은 **20세기 초 영어권**의 후대 정착이다(가장 이른 활자 등장은 Loraine Boettner, *The Reformed Doctrine of Predestination*, Wm. B. Eerdmans 초판, 1932). 따라서 TULIP은 칼빈 본인이 만든 표어가 아니며, 도르트 회의가 만든 표어도 아니다. 칼빈 본인의 가르침과 큰 흐름은 일치하나 두문자어의 역사적 기원을 정확히 알릴 것.
 - **이중예정 절대화 회피**: 칼빈은 이중예정(double predestination)을 가르치되, 강요 3.23.7에서 이를 *"두려운 결정(decretum horribile, dreadful decree)"* 으로 표현하며 신중히 다뤘다. "horribile"는 "horrible(끔찍한)"보다는 "두려운/경외감을 일으키는"의 라틴어 뉘앙스. 단순화·강조 일변도 회피.
 - **칼빈 ≠ 청교도**: 영국·미국 청교도 신학(17–18세기)은 칼빈을 계승하나 동일하지 않다. Westminster Confession도 칼빈 본인의 가르침과 일부 차이 존재(예: 언약 신학 발전, 행위 언약 정립 등).
 - **율법주의 회피**: 칼빈은 행위 의를 거부했다. 칭의(3.11)와 성화(3.6–10)의 결합과 구분이 핵심. 적용이 율법주의로 흐르지 않게.
 - **이성주의·합리주의 ≠ 칼빈**: 칼빈은 신학적 합리성을 강조했으나 16–17세기 합리주의(Descartes 이후)와 다르다. 합리주의로 환원하지 않는다.
+- ***extra Calvinisticum*과 *finitum non capax infiniti*의 정확한 귀속**: *extra Calvinisticum*("외부의 칼빈주의자")이라는 명칭은 16-17세기 *루터파*가 Reformed 진영을 비판하면서 붙인 *꼬리표* — 칼빈 본인이 만든 표현이 아니다. 그리스도의 인성을 넘어서는 신성의 *밖*(extra)을 인정하는 도식 자체는 Athanasius·Augustine 이래 교부 전통의 그리스도론 입장이며, 칼빈은 이를 강요 2.13–14·4.17에서 정밀 적용했다. 후대 Reformed 정통(Beza·Polanus·Turretin)은 이를 표어 *finitum non capax infiniti*(유한은 무한을 담을 수 없다 — Aristotle 격언 *finitum non capit infinitum*에서 차용)로 정착시켜 루터파 *ubiquity*(편재) 교리에 대항했다. 따라서 ① *finitum non capax infiniti*는 *칼빈 본인의 표어*가 아니라 *후대 Reformed 표어*로 정확히 표기 ② *extra Calvinisticum*은 *비판자의 꼬리표였다가 후에 Reformed가 수용한 표현*임을 인지 ③ 두 표어를 칼빈 본인의 자기 표현으로 직접 인용하지 말 것.
+- **십계명 분류 차이 (2.8)**: 칼빈은 *첫 돌판 4계명 + 둘째 돌판 6계명*(4+6) 분류 — 알렉산드리아 오리겐·필로·동방 정교 계승. **가톨릭·루터파는 3+7** — 어거스틴 후기 분류(*De Decalogo*) 계승, 신명기 5장 형식 따름. 가톨릭·루터파 분류는 제2계명(우상 금지)을 제1계명에 흡수시키는 결과를 낳음. 한국 강단에서 두 분류 혼동 사례가 흔하므로 사용자가 *몇 번째 계명*을 인용할 때 *어느 분류 기준인지* 확인 필요.
+- **가톨릭 7성례 도식의 역사적 정착 (4.19 관련)**: 칼빈 4.19가 비판하는 7성례 도식은 *Peter Lombard *Sententiae* IV* (c. 1150)에서 첫 정착, *Council of Florence 1439 Decretum pro Armenis*에서 공식화, *Council of Trent Session VII (1547년 3월 3일) Decree on the Sacraments*에서 anathema와 함께 재확정. 7성례 도식은 12세기 이전에는 모호했음을 인지하고, *"가톨릭은 처음부터 7성례였다"*는 단순화는 회피.
+- **원죄 영역 역사 사실 (2.1 관련)**: *Council of Orange 529* — 어거스틴 입장 공식화, 반(半)펠라기우스 거부. *Council of Trent Session V (1546년 6월 17일) Decree on Original Sin* — 가톨릭의 원죄 정의·세례에 의한 *유전 죄책 제거* 입장. 칼빈은 세례가 원죄의 *정죄*를 제거하나 *부패의 잔재*는 평생 남는다고 본다.
+
+### Trent 공의회 (1545–63) 핵심 회기 정리 (칼빈 강요 관련)
+
+칼빈 강요 1559판이 직접 인지하거나 정면 대비하는 트리엔트 회기들. 회기·날짜·교령·칼빈 영역의 정확한 대조를 위해 한 곳에 정리:
+
+| 회기 | 날짜 | 교황 | 교령 | 칼빈 강요 대조 영역 |
+|------|------|------|------|---------------------|
+| Session IV | 1546년 4월 8일 | Paul III | *Decree on the Canonical Scriptures*·*Decree on the Edition and Use of Sacred Books* (성경+전통의 동등 권위) | 1.6·1.7 (성경의 권위) |
+| Session V | 1546년 6월 17일 | Paul III | *Decree on Original Sin* | 2.1 (원죄, V5 Q4) |
+| Session VI | 1547년 1월 13일 | Paul III | *Decree on Justification* (*iustitia infusa*) | 3.11 (칭의, 등재) / 3.22 (선택, V6 R8) |
+| Session VII | 1547년 3월 3일 | Paul III | *Decree on the Sacraments* (7성례 재확정) | 4.14·4.19 (성례·5거짓 성례, V4 M10·V5 Q10) |
+| Session XIII | 1551년 10월 11일 | Julius III | *Decree on the Sacrament of the Eucharist* (화체설 anathema 첫 확정) | 4.17·4.18 (성찬·미사, 등재·V6 R10) |
+| Session XXII | 1562년 9월 17일 | Pius IV | *Decree on the Sacrifice of the Mass* (미사 희생 anathema) | 4.18 (미사 비판, V6 R10) |
+| Session XXV | 1563년 12월 3–4일 | Pius IV | *Decree on Purgatory·Decree on Indulgences·Decree on Sacred Images·Decree on the Veneration of Saints* | 3.5 (면죄부·연옥, V4 M6) / 1.11 (성상 비판) |
+
+본 표를 사용자에게 인용할 때 *Trent 회기 = Session 로마 숫자*로 통일 표기하면 학계 표준.
 
 ### 이단·사이비 차단
 
@@ -360,17 +399,36 @@ description: "존 칼빈(John Calvin, 1509–1564)의 『기독교 강요(Instit
 
 학술서 추천이 적절할 때:
 
-- **표준 영문 비평본**: Battles 역 (McNeill ed.), Library of Christian Classics (Westminster Press, 1960)
-- **표준 한국어판**: 김종흡·신복윤·이종성·한철하 공역 (생명의말씀사) / 원광연 역 (크리스천다이제스트) / 문병호 역
+- **표준 영문 비평본**: Battles 역 (McNeill ed.), Library of Christian Classics vol. XX–XXI (Westminster Press / SCM Press, 1960, 2 vols)
+- **표준 한국어판**: 
+  - 김종흡·신복윤·이종성·한철하 공역 (생명의말씀사, 1986–1988, 전4권)
+  - 원광연 역 (크리스천다이제스트 / CH북스, 2003, 전3권)
+  - 문병호 역 *기독교 강요: 1559년 라틴어 최종판 직역* (생명의말씀사, 2020, 전4권)
 - **칼빈 신학 표준 연구서**:
-  - François Wendel, *Calvin: Origins and Development of His Religious Thought* — 입문 표준
-  - Richard A. Muller, *The Unaccommodated Calvin* — 학술 정밀, 후대 칼빈주의와 칼빈 본인 구분
-  - B.A. Gerrish, *Grace and Gratitude: The Eucharistic Theology of John Calvin* — 성찬론
-  - I. John Hesselink, *Calvin's First Catechism* — 입문서
-  - Steven Lawson, *The Expository Genius of John Calvin* — 입문서
-- **한국 칼빈 학자**: 박해경, 이상웅, 이양호, 안인섭 등 한국 칼빈 학자 저서 (검색 가능 시 추천)
+  - François Wendel, *Calvin: Origins and Development of His Religious Thought* (French original: Presses Universitaires de France, 1950; English trans. Philip Mairet, Harper & Row, 1963; reprint Baker, 1997) — 입문 표준
+  - Richard A. Muller, *The Unaccommodated Calvin: Studies in the Foundation of a Theological Tradition* (Oxford University Press, 2000, Oxford Studies in Historical Theology 시리즈) — 학술 정밀, 후대 칼빈주의와 칼빈 본인 구분
+  - B.A. Gerrish, *Grace and Gratitude: The Eucharistic Theology of John Calvin* (Fortress Press, 1993) — 성찬론
+  - I. John Hesselink, *Calvin's First Catechism: A Commentary* (Westminster John Knox Press, 1997) — 입문서
+  - Steven Lawson, *The Expository Genius of John Calvin* (Reformation Trust, 2007) — 칼빈 설교에 대한 입문 (조직신학 입문은 아님)
+  - Bruce Gordon, *Calvin* (Yale University Press, 2009) — 표준 평전
+- **주제별 보조 연구서** (등재 10장 외 미등재 70장 학습 시 안내용):
+  - I. John Hesselink, *Calvin's Concept of the Law* (Pickwick Publications, 1992, Princeton Theological Monograph Series) — 율법론·세 가지 용도(2.7)
+  - Ronald S. Wallace, *Calvin's Doctrine of the Christian Life* (Eerdmans, 1959; Oliver and Boyd, Edinburgh, 동시 영국판) — 그리스도인 삶(3.6–10)
+  - Pierre-Charles Marcel, *The Biblical Doctrine of Infant Baptism: Sacrament of the Covenant of Grace* (trans. P.E. Hughes, James Clarke, Cambridge, 1953) — 유아세례(4.16)
+  - Elsie Anne McKee (ed./trans.), *John Calvin: Writings on Pastoral Piety* (Paulist Press, 2001, Classics of Western Spirituality, foreword B.A. Gerrish) — 기도·목회 경건(3.20)
+  - Mark A. Garcia, *Life in Christ* (Paternoster, 2008) — 그리스도 연합 추가 보충
+  - Julie Canlis, *Calvin's Ladder: A Spiritual Theology of Ascent and Ascension* (Eerdmans, 2010) — 그리스도 연합·승천 신학
+  - Susan E. Schreiner, *The Theater of His Glory: Nature and the Natural Order in the Thought of John Calvin* (Labyrinth Press, Durham NC, 1991, Studies in Historical Theology 3) — 창조·자연계시·섭리(1.5·1.16–17)
+  - Peter A. Lillback, *The Binding of God: Calvin's Role in the Development of Covenant Theology* (Baker Academic, 2001, Texts and Studies in Reformation and Post-Reformation Thought) — 언약신학·구약신약 단일성(2.10–11)
+  - Heinrich Quistorp, *Calvin's Doctrine of the Last Things* (trans. Harold Knight, Lutterworth Press, 1955; 독일어 원본 *Die letzten Dinge im Zeugnis Calvins*) — 종말론·부활(3.25)
+  - Robert M. Kingdon, *Adultery and Divorce in Calvin's Geneva* (Harvard University Press, 1995, Harvard Historical Studies 118) — 권징·콘시스토리(4.12)
+  - Anthony A. Hoekema, *Created in God's Image* (Eerdmans, 1986) — *imago Dei*(1.15)·인간론
+  - William J. Bouwsma, *John Calvin: A Sixteenth-Century Portrait* (Oxford University Press, 1988) — 평전·심리적 분석(영성·전기 보조)
+  - John H. Leith, *John Calvin's Doctrine of the Christian Life* (Westminster John Knox Press, 1989) — 3.6–3.10 그리스도인 삶 보조
+- **한국 칼빈 학자**: 박해경(백석대), 이상웅(총신대), 이양호(전 연세대), 안인섭(총신대), 문병호(총신대), 이은선(안양대), 유해무(전 고신대) 등 한국 칼빈 학자 저서. 한국칼빈학회 학술지 *칼빈연구* 정기 간행.
 - **온라인 자료**: 
-  - CCEL (Christian Classics Ethereal Library) — Beveridge 역 무료 접근
+  - CCEL (Christian Classics Ethereal Library, ccel.org) — Beveridge 역(1845) 무료 접근
+  - Calvin Theological Seminary H.H. Meeter Center for Calvin Studies (Grand Rapids) — 칼빈 1차 자료 디지털 아카이브
   - 한국칼빈학회 자료
 
 ## 오류·예외 처리

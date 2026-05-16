@@ -62,7 +62,7 @@
 **사실**: MLJ는 칼빈·청교도의 lectio continua(책별 연속 강해)를 받았으나, 한 책을 **수년에 걸쳐** 강해하는 방식으로 발전시켰다.
 
 **검증된 시리즈 기간**:
-- **로마서**: 1955년 10월 → 1968년 3월 12일 (마지막 설교). 14권 시리즈로 출간.
+- **로마서**: 1955년 10월 → 1968년 3월 1일 (Friday Night Lecture, 로마서 14:17 마지막 강해). 14권 시리즈로 출간. 일부 자료는 *1968년 3월* 일반화 표기.
 - **에베소서**: 1954년 가을 → 1962년까지(주일 아침). 8권 시리즈.
 
 **출처**: Murray, *The Fight of Faith*, chs. 19–21.
@@ -94,7 +94,7 @@
 
 **기준점**:
 - 감정 조작 회피.
-- 1955년 Billy Graham London Crusade에 대한 미묘한 거리 — Graham의 인격은 존중하되 *altar call* 방식에 의문 (출처: Murray, *Fight of Faith*, ch. 16).
+- 1954년 Billy Graham *London Crusade* (1954-03-01~05-22, Harringay Arena, 12주)에 대한 미묘한 거리 — Graham의 인격은 존중하되 *altar call* 방식에 의문 (출처: Murray, *Fight of Faith*, ch. 16). 1955년 *All-Scotland Glasgow Crusade*(Kelvin Hall)는 별도 사건이며 두 사건을 연속 *1954–1955 영국 사역*으로 일반화도 가능.
 
 ---
 

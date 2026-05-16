@@ -152,3 +152,81 @@
 - `[구체 출처 확인 필요]` — 책·논문은 알지만 정확한 페이지·문장 미확보
 
 이 표기를 사용함으로써 *정확한 사실*과 *전승·해석*을 명확히 구분한다.
+
+---
+
+## 인명·지명·연대 표기 규칙 (Naming & Notation Standards)
+
+### 인명 표기
+- **서양 인물**: *한국어(원어, 생몰연도)* — "마틴 루터(Martin Luther, 1483-1546)", "조나단 에드워즈(Jonathan Edwards, 1703-1758)"
+- **고대·중세 라틴어 인물**: 학계 통용 영어/라틴 표기 사용 — *Augustinus → Augustine of Hippo*, *Hieronymus → Jerome*, *Athanasius* (한국어 *어거스틴/제롬/아타나시우스*)
+- **동방·헬라계 인물**: 헬라식 vs 라틴식 표기 — *Athanasios* (헬라어) vs *Athanasius* (라틴/영어), *Iōannēs Chrysostomos* vs *John Chrysostom*. 학계 영어권 표준은 *라틴/영어식*이며 본 스킬도 이를 따른다.
+- **동명이인 구분**: *Cyril of Alexandria*(c.376-444) vs *Cyril of Jerusalem*(c.313-386) vs *Cyril and Methodius*(슬라브 사도, 9세기); *Gregory of Nyssa* vs *Gregory of Nazianzus* vs *Gregory the Great*(Pope Gregory I); *Eusebius of Caesarea*(역사가) vs *Eusebius of Nicomedia*(아리우스파 주교).
+- **한국 인명**: *한글(한자, 생몰연도)* — "주기철(朱基徹, 1897-1944)", "길선주(吉善宙, 1869-1935)"
+- **일본 인명**: *한글(영문 로마자, 생몰연도)* — "야스카와 토오루(Yasukawa Toru)"
+- **중국 인명**: *한글(한자/영문 로마자, 생몰연도)* — 표기는 *Pinyin* 우선, *Wade-Giles*는 *원자료 인용 시*만 — "쿠빌라이 칸(Kublai Khan, 元世祖)"
+
+### 지명 표기
+- **고대 지명 + 현대 지명**: *콘스탄티노폴리스(Constantinople, 현 이스탄불)*, *비티니아 니케아(Nicaea, 현 터키 İznik)*, *히포 레기우스(Hippo Regius, 현 알제리 Annaba)*, *카이사레아 마리티마(Caesarea Maritima, 현 이스라엘 카이사리아)*
+- **동명 지명 구분**: *Antioch in Syria*(시리아 안디옥, 현 튀르키예 Antakya) vs *Antioch in Pisidia*(비시디아 안디옥, 현 튀르키예 Yalvaç); *Caesarea Maritima*(가이사랴 빌립보 아님) vs *Caesarea Philippi*; *Tarsus*(다소, 바울의 고향) vs *Tarsus in Bithynia*
+- **한국 지명**: 당대 명칭 우선 — *경성(京城)*은 일제강점기 명칭, *서울*은 해방 이후. *평양 서문외교회*는 1938년 명칭
+
+### 연대 표기
+- **공의회·교령**: *제○차 공의회 (장소, 연도)* — "*제1차 니케아 공의회(325)*", "*제4차 라테란 공의회(1215)*", "*제2차 바티칸 공의회(1962-1965)*"
+- **연속 회기**: "*트리엔트 공의회(1545-1563, 3 회기 25 sessions)*"
+- **율리우스력·그레고리력 차이**: 1582 이후 동방정교 국가(러시아·그리스 등)는 *Old Style* (율리우스력) 유지. 러시아 *Old Style*은 19세기 12일, 20세기 13일 차이. *Old Style/New Style* 표기 — "*1917.10.25 (Old Style) / 1917.11.7 (New Style) 볼셰비키 혁명*"
+
+### 라틴어·헬라어 약어
+- *cf.* (confer, 비교하라): *cf. 어거스틴 De civ. Dei 14.28*
+- *et al.* (et alii, 그 외): *Brown et al. 2006*
+- *ibid.* (ibidem, 같은 곳): 직전 인용과 동일 출처
+- *passim* (여기저기): 책 전반에 흐르는 주제
+- *PL* = *Patrologia Latina* (Migne, 라틴 교부 전집), *PG* = *Patrologia Graeca* (헬라 교부 전집)
+- *WA* = *D. Martin Luthers Werke, Weimarer Ausgabe*; *LW* = *Luther's Works* (영역 미국판)
+- *CO* = *Calvini Opera*; *NPNF* = *Nicene and Post-Nicene Fathers*; *ANF* = *Ante-Nicene Fathers*
+
+---
+
+## 최근 학계 수정주의 흐름 (Recent Revisionist Trends, 2000s-2020s)
+
+응답 작성 시 *전통 학계*와 *최근 수정주의* 둘 다 알고 있어야 한다.
+
+### 콘스탄티누스 회심
+- 전통: Burckhardt(1853) 정치적 / Baynes(1929) 진정한 회심
+- 현대 표준: T.D. Barnes·H.A. Drake — 정치·신앙 혼합
+- 최근 수정주의 (*Peter Leithart, Defending Constantine* 2010): 보수 개혁주의 시각의 콘스탄티누스 *재평가*
+- 학계 신흥 합의: 회심은 *진정한 신앙 사건*이되 *국가-교회 관계의 새 구도*는 *부수적 결과*
+
+### 1054 동서 분열
+- 전통: 1054 = 결정적 분열
+- 현대 표준: H. Chadwick(*East and West*, 2003) — *점진적 분열*. 1054는 *상징적 사건*
+- 최근 수정주의: *medievalists.net* 2024 *"Great Schism 1054 is a Medieval Myth"* 견해 — 1054 자체가 *후대 구성물*이며, 양 교회는 *수십 년에 걸쳐 점진적 분리*
+
+### 십자군
+- 전통: Runciman(*A History of the Crusades*, 1951-1954) — *비극·고결한 야만(Sublime Barbarism)*
+- 현대 표준: Riley-Smith(*The First Crusade and the Idea of Crusading*, 1986) — *종교적 헌신*이 가장 강한 동기 (경제·잉여 인구 동기 가설 수정)
+- 21세기: Tyerman(*God's War*, 2006) 균형적 종합; Frankopan(*The First Crusade: The Call from the East*, 2012) — *비잔틴 측의 능동적 요청* 강조
+
+### 영국 종교개혁
+- 전통: Dickens(*The English Reformation*, 1964) — *민중의 자발적 수용*
+- 수정주의: Eamon Duffy(*The Stripping of the Altars*, 1992) — *위로부터의 강제*·*가톨릭 신앙 강제 박탈*
+- 현대 균형: MacCulloch(*Thomas Cranmer*, 1996) — 양 시각의 통합
+
+### 1차 대각성
+- 전통: Sydney Ahlstrom(*A Religious History of the American People*, 1972) — *Great Awakening = 결정적 미국적 사건*
+- 수정주의: Jon Butler(*Awash in a Sea of Faith*, 1990) — *Great Awakening은 후대 사학자의 구성물*
+- 현대 균형: Thomas Kidd(*The Great Awakening*, 2007), Mark Noll(*The Rise of Evangelicalism*, 2003) — 부흥의 *실재성* 인정하되 *후대 신화화* 경계
+
+### 본회퍼
+- 전통: Bethge(*Bonhoeffer*, 1967) — 결정적 표준 전기, *친구·동지*의 깊은 정통 신앙
+- 대중: Metaxas(*Bonhoeffer*, 2010) — 보수 복음주의 영웅화
+- 비판: Stephen Haynes(*The Bonhoeffer Phenomenon*, 2004; *Bonhoeffer for Armchair Theologians*, 2018) — *수용사*의 왜곡 검토
+- 균형: Marsh(*Strange Glory*, 2014), Schlingensiepen(2010) — 정통 신앙 + 시대 응답의 복합
+
+### 한국 평양 대부흥
+- 전통: 박용규(*평양대부흥운동*, 2007) — *영적 부흥의 토대*
+- 수정주의: 류대영(*초기 미국 선교사 연구*, 2001) — *식민화 직전 사회 위기의 종교적 응답*
+- 비판: 일부 민중신학 — *영적 강조가 식민지 현실 회피로 이어졌다*는 평가
+- 균형: 민경배(*한국기독교회사*, 2007) — *영적 깊이 + 시대 응답*
+
+응답 작성 시 *최근 수정주의를 단순 진보로 단정*하지 않고, *전통 견해의 강점과 약점*을 함께 짚는다.

@@ -106,8 +106,9 @@
 - **1차 자료 위치**: *Reformed Dogmatics* vol. 2 (창조와 행위 언약) + vol. 3 (은혜 언약·기독론).
 - **바빙크의 특징**: 행위 언약(*foedus operum*)과 은혜 언약(*foedus gratiae*)을 *유기적 구속사 구조*로 통합.
 - **표준 학자 연구**:
-  - Brian G. Mattson, *Restored to Our Destiny* (Brill, 2012) — 언약이 "은혜는 자연을 회복" 모티프의 신학적 엔진임을 입증.
-  - Cornelis Veenhof, *In Kuyper's Lijn: Enkele kanttekeningen bij de Bavinck-receptie van K. Schilder en J. Veenhof* — 후대 개혁주의 언약 신학 흐름.
+  - Brian G. Mattson, *Restored to Our Destiny: Eschatology and the Image of God in Herman Bavinck's Reformed Dogmatics* (Leiden: Brill, 2012) — 언약이 "은혜는 자연을 회복" 모티프의 신학적 엔진임을 입증.
+  - Cornelis P. Venema, *Christ and Covenant Theology: Essays on Election, Republication, and the Covenants* (Phillipsburg, NJ: P&R Publishing, 2017) — 개혁주의 언약 신학 후대 흐름·재출판 논쟁 정리.
+  - *Westminster Confession of Faith* 7장 ("Of God's Covenant with Man") — 행위 언약·은혜 언약 구분의 영어권 개혁주의 표준 신앙고백.
 
 ---
 
@@ -145,12 +146,31 @@
 
 ---
 
-## 설교론 (특별 자료) — Bavinck on Preaching and Preachers
+## 14. 인간론·하나님의 형상 (*imago Dei*) — 보강 항목
+
+- **1차 자료 위치**:
+  - 인간 창조·*imago Dei*: *Reformed Dogmatics* vol. 2 (Baker, 2004) — 창조론 후반·인간론 부분.
+  - 죄와 형상의 부패: vol. 3 (Baker, 2006) — *Sin and Salvation in Christ*.
+  - 영광·형상의 완성: vol. 4 (Baker, 2008) — *Holy Spirit, Church, and New Creation* 종말부.
+- **핵심**:
+  - 인간은 *하나님의 형상(imago Dei)*. 형상은 *영혼+몸 통일체*로서의 전인적 차원.
+  - *organic motif*가 인간론에 적용 — 인류 전체가 *유기체적 통일성* (아담 안에서 하나).
+  - 죄가 형상을 *파괴*하지 않고 *부패·왜곡*시킴 → 구속은 *형상의 회복과 완성*.
+  - 종말의 영광은 형상이 그리스도(둘째 아담)에게서 완성되는 사건.
+- **표준 학자 연구**:
+  - **Brian G. Mattson, *Restored to Our Destiny: Eschatology and the Image of God in Herman Bavinck's Reformed Dogmatics* (Leiden: Brill, 2012)** — *imago Dei* + 종말론 통합 표준 연구.
+  - John Bolt, *A Theological Analysis of Herman Bavinck's Two Essays on the Imitatio Christi: Between Pietism and Modernism* (Lewiston, NY: Edwin Mellen Press, 2013) — *imitatio Christi*가 *imago Dei*의 구원론적 회복 차원임을 분석.
+- **인용 우회 표준**: 정확한 페이지 필요 시 *Reformed Dogmatics* vol. 2 인간론 또는 Mattson 2012 직접 확인.
+
+---
+
+## 설교론 (특별 자료) — Herman Bavinck on Preaching and Preachers
 
 본 스킬에서 **설교 관련 모든 질문의 1차 자료**:
 
-- ***Bavinck on Preaching and Preachers*** (Peabody, MA: Hendrickson, 2017, James Eglinton 편역).
-- 바빙크의 *Homiletiek* 강의 노트·설교 텍스트·서평을 모은 영역 단권.
+- ***Herman Bavinck on Preaching and Preachers*** (Peabody, MA: Hendrickson, 2017, James P. Eglinton 편역).
+- 바빙크의 *Homiletiek* 강의 노트·웅변(eloquence) 강연·미국 설교 관찰·유일한 출간 설교문을 모은 영역 단권.
+- **이 책 출간 이전에는 네덜란드어 단권으로도 존재하지 않았다** — Eglinton이 미발표 자료를 모아 최초 단행본화한 자료.
 
 ### 바빙크 설교의 5 핵심 (해당 영역에서 추출 가능)
 1. 신학적 깊이와 회중 접근성의 균형
@@ -159,7 +179,7 @@
 4. 유기적 본문 이해
 5. 일반 은총의 인정 (회중이 살아가는 세상 전체가 하나님의 무대)
 
-정확한 인용·페이지 필요 시 *Bavinck on Preaching and Preachers* (Eglinton 편역) 직접 확인 권장.
+정확한 인용·페이지 필요 시 *Herman Bavinck on Preaching and Preachers* (Eglinton 편역) 직접 확인 권장.
 
 ### 다른 설교론과 비교 시 1차 자료 (보강)
 

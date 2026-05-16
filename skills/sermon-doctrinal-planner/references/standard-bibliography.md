@@ -132,6 +132,59 @@
 
 ---
 
+## 11. 성경 영감론·정경론 표준 저작 (분과 0 성경론)
+
+- B. B. Warfield, *The Inspiration and Authority of the Bible* (사후 편집 1948, P&R) — 영감론 고전
+- Carl F. H. Henry, *God, Revelation and Authority* (6 vols., 1976-1983, Crossway) — 복음주의 계시론 종합
+- John M. Frame, *The Doctrine of the Word of God* (P&R, 2010)
+- D. A. Carson & John D. Woodbridge (eds.), *Scripture and Truth* (Zondervan, 1983)
+- Cornelius Van Til, *An Introduction to Systematic Theology* (Den Dulk Foundation, 1974)
+- F. F. Bruce, *The Canon of Scripture* (IVP, 1988) — 정경 형성사
+- 박형룡, 『교의신학 — 서론』 (1955, 1권)
+- 박윤선, 『신구약 성경의 영감과 무오성』
+
+---
+
+## 12. 분과·교리별 추천 매트릭스 (빠른 참조)
+
+§8 추천 시 다음 매트릭스를 사용:
+
+| 분과·교리 | 1차 (한국 목회자) | 2차 (평신도) | 3차 (연구자) |
+|----------|------------------|------------|------------|
+| **성경론** | 박형룡 『교의신학 서론』, Berkhof | Packer 『하나님을 아는 지식』 (계시 부분) | Warfield 1948, Henry 1976-1983 |
+| **신론·삼위일체** | 박형룡 신론, Berkhof, Bavinck *RD* 2 | Sproul 『하나님의 거룩하심』 (1985), Charnock 1682 | Letham 2004 *The Holy Trinity*, Augustine *De Trin* |
+| **인간론·죄론** | 박형룡 인죄론, Berkhof | Sproul *The Holiness of God* (1985) | Bavinck *RD* 2 |
+| **기독론** | 박형룡 기독론, Bavinck *RD* 3 | Stott 『그리스도의 십자가』 (1986), Packer 『하나님을 아는 지식』 | Anselm 1098, Athanasius 318, Wellum 2016 |
+| **칭의·구원론** | 박형룡 구원론, Berkhof, Owen 1647 | Sproul *Chosen by God* (1986), Ferguson 2016 | Calvin *Institutes* 3.11, Owen 1677 |
+| **성령·성화** | 박형룡, Owen *Pneumatologia* 1674 | Packer 『하나님을 아는 지식』 (성령 부분) | Bavinck *RD* 4 |
+| **교회·성례** | 박형룡 교회론, Berkhof, Clowney 1995 | — | Calvin *Institutes* 4, Murray 1952 |
+| **종말론** | 박형룡 내세론, Hoekema 1979 | Sproul, Stott | Bavinck *RD* 4, Vos 1948 |
+| **율법·복음** | Ferguson *The Whole Christ* (2016) | — | Calvin *Institutes* 2.7-8, Murray *Principles of Conduct* (1957) |
+
+---
+
+## 13. 한국어 번역본 표기 가이드
+
+§8 한국 평신도용 도서 추천 시 다음 한국어 번역본을 표기:
+
+| 원작 | 한국어판 표기 |
+|------|-------------|
+| Calvin *Institutes* | 『기독교 강요』 — 박건택 역(생명의말씀사), 또는 문병호 역(생명의말씀사 2020). 정확한 번역자·연도는 직접 확인 권장 |
+| Berkhof *Systematic Theology* | 『조직신학』 — 권수경·이상원 역(크리스천다이제스트, 다수 판) |
+| Bavinck *Reformed Dogmatics* | 『개혁교의학』 — 박태현 역(부흥과개혁사, 2011-) |
+| Packer *Knowing God* | 『하나님을 아는 지식』 — 정옥배 역(IVP) |
+| Sproul *The Holiness of God* | 『하나님의 거룩하심』 — 다양본 |
+| Sproul *Chosen by God* | 『하나님께 택함받음』 — 다양본 |
+| Stott *The Cross of Christ* | 『그리스도의 십자가』 — IVP |
+| Ferguson *The Whole Christ* | 『온전한 그리스도』 — 부흥과개혁사 |
+| Owen *The Death of Death* | 『그리스도의 죽으심』 — 부흥과개혁사 등 |
+| Hoekema *The Bible and the Future* | 『개혁주의 종말론』 — 류호준 역(부흥과개혁사) |
+| Lloyd-Jones *Preaching and Preachers* | 『설교와 설교자』 — 정근두 역(복있는사람) |
+
+위 표에 없는 도서는 "(한국어 번역 출판 정보는 직접 확인 권장)" 표기.
+
+---
+
 ## 추천 시 사용 규칙
 
 1. **분과·교리에 맞춤**: 위 목록에서 사용자의 교리 명제·본문에 직접 부합하는 책 3-5권 선정.

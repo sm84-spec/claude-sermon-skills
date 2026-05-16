@@ -334,7 +334,7 @@
   - 1741.7.8 Edwards, *Sinners in the Hands of an Angry God* — Enfield, Connecticut
   - 1742-1743 *Old Lights*(반부흥파) vs *New Lights*(찬성파) 분열
   - 1746 Edwards, *A Treatise Concerning Religious Affections*
-  - 1758 Edwards 사망 (천연두 백신 부작용, 프린스턴 대학 학장 부임 직후)
+  - 1758.3.22 Edwards 사망 (*인두법(variolation)* 시술 후 후유증으로 사망. 천연두 *백신(vaccine)*은 1796년 Edward Jenner의 우두법 이후 용어이므로 *"백신"이라는 표현은 시대착오*. 정확한 표기는 *"인두법 접종 후 부작용으로 사망"*). 프린스턴 칼리지(College of New Jersey, 현 Princeton University) 학장 부임 약 5주 후
 - **1차 사료**:
   - *The Works of Jonathan Edwards* (Yale, 26 vols, 1957-2008) — Wallace E. Anderson·John E. Smith·Harry Stout 등 편집
   - Whitefield's *Journals* (Banner of Truth, 1960)
@@ -442,6 +442,229 @@
 - **자주 발생하는 오류**:
   - 근대 선교 = 19세기 시작 → 1792 Carey가 *상징적* 시작. 그전에 *경건주의 모라비안 선교*(1732 St. Thomas), *예수회 선교* 등 있음
   - 선교 = 식민주의 도구 단일 평가 → Sanneh·Walls의 *균형 시각* 필요
+
+---
+
+## 16. 영국 종교개혁 (English Reformation)
+
+- **연도**: 1527 Henry VIII 이혼 청원 ~ 1559 *Elizabethan Settlement* (4단계)
+- **장소·인물**: 영국. *Henry VIII*(1491-1547, 재위 1509-1547), *Thomas Cranmer*(1489-1556, Canterbury 대주교), *Thomas Cromwell*(c.1485-1540), *Edward VI*(1537-1553), *Mary I*(1516-1558, 별칭 "*Bloody Mary*"), *Elizabeth I*(1533-1603, 재위 1558-1603).
+- **사건 핵심**:
+  - 1527-1533 Henry VIII *이혼 문제* (캐서린 of Aragon → Anne Boleyn)
+  - 1534 *Act of Supremacy* — 영국 국왕이 영국 교회의 *최고 수장(Supreme Head)*
+  - 1536-1541 *수도원 해산(Dissolution of the Monasteries)* — Thomas Cromwell 주도
+  - 1538 영어 성경(*Great Bible*, Coverdale·Tyndale 편역) 모든 교구에 비치 명령
+  - 1547-1553 *Edward VI* — *Cranmer*가 *Book of Common Prayer*(1549/1552 개정), *42 Articles*(1553) 작성
+  - 1553-1558 *Mary I* 가톨릭 복귀 — 약 *280여 명 화형*(Cranmer 1556 포함, *Foxe's Book of Martyrs* 기록)
+  - 1559 *Elizabethan Settlement*: *Act of Supremacy*(여왕은 *Supreme Governor*로 표현 완화) + *Act of Uniformity* (BCP 1559)
+  - 1571 *39 Articles* — 신학적 표준 확정
+  - 1604-1611 *King James Version*(KJV, *Authorized Version*) 번역
+- **1차 사료**:
+  - *Statutes of the Realm* (Henrician + Edwardian + Elizabethan)
+  - *Book of Common Prayer* 1549·1552·1559 원본
+  - *39 Articles of Religion* (1571)
+  - John Foxe, *Acts and Monuments* (*Foxe's Book of Martyrs*, 1563/1583)
+  - Cranmer's *Letters* (Parker Society edition)
+- **표준 학술서**:
+  - A.G. Dickens, *The English Reformation* (Batsford, 1964, 2nd ed. 1989) — 클래식
+  - Diarmaid MacCulloch, *Thomas Cranmer: A Life* (Yale, 1996) — 결정적 표준
+  - Diarmaid MacCulloch, *The Reformation: A History* (Viking, 2003)
+  - Eamon Duffy, *The Stripping of the Altars: Traditional Religion in England 1400-1580* (Yale, 1992, 2nd ed. 2005) — *수정주의 표준* (영국 가톨릭 시각)
+  - Patrick Collinson, *The Elizabethan Puritan Movement* (Cape, 1967)
+- **다관점**:
+  - 개신교 전통(*Dickens*): 진리의 회복·민중의 자발적 수용
+  - 가톨릭 수정주의(*Duffy*): 정부 강요에 의한 *위로부터의 종교개혁*·민중의 가톨릭 신앙 강제 박탈
+  - 균형(*MacCulloch*): 정치적 우연성 + Cranmer의 신학적 진정성 + 민중의 다층적 반응
+  - 영국 국교회: *via media*(중도) — 가톨릭 전통 + 개혁주의 신학
+- **자주 발생하는 오류**:
+  - "Henry VIII가 종교개혁자" → Henry는 정치적 분리. 신학적 종교개혁은 *Cranmer*가 주도
+  - 39 Articles = Henry → *1571 Elizabeth I* 시기
+  - *Elizabeth I* = *Supreme Head* → 정확히 *Supreme Governor* (Mary I 가톨릭 복귀 후 "Head" 표현 완화)
+  - 청교도 vs 영국국교회 = 1559 시점부터 명확한 분리 → *점진적 갈등*, 정식 분리는 *1662 Great Ejection*
+
+---
+
+## 17. 웨슬리 형제와 감리교 운동
+
+- **연도**: 1738 John Wesley *Aldersgate 회심* ~ 1791 사망. 감리교 정식 형성은 18세기 후반.
+- **장소·인물**: 영국·미국. *John Wesley*(1703-1791), *Charles Wesley*(1707-1788, 찬송시인), *George Whitefield*(1714-1770, 칼빈주의 감리교). 부모 *Samuel Wesley*·*Susanna Wesley*(19자녀 양육·신앙 교육).
+- **사건 핵심**:
+  - 1729 옥스퍼드 *Holy Club* (*Methodist* 별칭 시작)
+  - 1735-1738 Georgia 식민지 선교 → 실패·귀국
+  - 1738.5.24 저녁 *Aldersgate Street* 집회에서 Luther *Preface to Romans* 낭독 중 회심: *"I felt my heart strangely warmed"*
+  - 1739 *야외 설교* (Whitefield 영향, Bristol *Kingswood* 광부들)
+  - 1739- *Society·Class Meeting·Band Meeting* 조직
+  - 1744 *제1회 Annual Conference*
+  - 1784 *Deed of Declaration* + 미국 *Methodist Episcopal Church* 설립 (*Francis Asbury*·*Thomas Coke* 감독 임명, *Christmas Conference*)
+  - 1791.3.2 Wesley 사망 (영국)
+  - 1795 영국 *Plan of Pacification* — 국교회와의 정식 분리 시작
+  - *예지된 양자택일*(예정론) 문제로 *George Whitefield*(칼빈주의 감리교)와 신학적 분열, 그러나 우정 유지
+- **1차 사료**:
+  - *The Works of John Wesley* (Bicentennial Edition, Abingdon, 35 vols 기획 중, *Sermons*·*Journal*·*Letters* 등)
+  - John Wesley, *A Plain Account of Christian Perfection* (1766)
+  - Charles Wesley, *Hymns* (수천 곡, 핵심: *Hark! the Herald Angels Sing*·*And Can It Be?*·*Love Divine, All Loves Excelling*)
+  - *John Wesley's Journal* (Curnock 8 vols edition, 1909-1916)
+- **표준 학술서**:
+  - Henry D. Rack, *Reasonable Enthusiast: John Wesley and the Rise of Methodism* (Epworth, 1989, 3rd ed. 2002) — 현대 표준
+  - Richard P. Heitzenrater, *Wesley and the People Called Methodists* (Abingdon, 1995)
+  - David Hempton, *Methodism: Empire of the Spirit* (Yale, 2005)
+  - Mark Noll, *The Rise of Evangelicalism* (IVP, 2003)
+- **다관점**:
+  - 감리교 전통: *prevenient grace*·*Christian perfection*·*entire sanctification* 강조
+  - 개혁주의(*Whitefield*·*Toplady*): Wesley의 *Arminianism* 비판
+  - 사회사(Hempton): *제국적 영성*·전 세계 확산
+  - 역사사회학(*E.P. Thompson*, *The Making of the English Working Class* 1963): 노동계급 *반혁명적 종교*로 작용한 측면 비판
+- **자주 발생하는 오류**:
+  - "Wesley가 감리교를 창립했다" → 평생 영국국교회 사제로 남고자 했음. 감리교 *정식 분리*는 사후·미국 1784 + 영국 1795
+  - "Wesley = Whitefield 같은 칼빈주의" → Wesley는 *Arminian*, Whitefield는 *Calvinistic Methodist*
+  - "1738.5.24 = 감리교 시작일" → Wesley *개인 회심일*. 감리교 운동 본격은 *1739 야외 설교* 이후
+  - *Christian perfection*을 *무죄(sinlessness)*로 단정 → Wesley 본인은 *완전한 사랑(perfect love)*·*의도된 죄로부터의 자유*로 정의했고 *무죄 주장 거부*
+
+---
+
+## 18. 윌버포스·노예제 폐지 운동
+
+- **연도**: 1787 Wilberforce 회심·운동 시작 ~ 1807 노예무역 폐지 ~ 1833 노예제 폐지
+- **장소·인물**: 영국. *William Wilberforce*(1759-1833, 의원), *Clapham Sect*(Clapham에 거주한 복음주의자 그룹), *Granville Sharp*(1735-1813), *Thomas Clarkson*(1760-1846), *Hannah More*(1745-1833), *Zachary Macaulay*(1768-1838), *Olaudah Equiano*(c.1745-1797, *The Interesting Narrative* 1789 자서전), *John Newton*(1725-1807, 회개한 노예선 선장, *Amazing Grace* 작사가, Wilberforce 영적 멘토).
+- **사건 핵심**:
+  - 1772 *Somerset Case* — Lord Mansfield 판결, 영국 본토 노예제 부정
+  - 1780s *Quaker*들의 노예제 폐지 청원
+  - 1787 *Society for Effecting the Abolition of the Slave Trade* 설립 (Sharp·Clarkson 주도)
+  - 1787 Wilberforce 회심 + Newton의 격려
+  - 1789.5.12 Wilberforce 첫 의회 연설 (실패)
+  - 1791-1806 매년 폐지안 제출·부결 반복
+  - 1807.3.25 *Slave Trade Act 1807* — 영국 노예무역 폐지
+  - 1823 *Anti-Slavery Society* 설립 (노예제 자체 폐지로 확장)
+  - 1833.7.26 *Slavery Abolition Act 1833* 통과 (대영 제국 노예제 폐지, 발효 1834.8.1)
+  - 1833.7.29 Wilberforce 사망 (폐지법 통과 3일 후)
+- **1차 사료**:
+  - William Wilberforce, *A Practical View of the Prevailing Religious System of Professed Christians in the Higher and Middle Classes...* (1797)
+  - Olaudah Equiano, *The Interesting Narrative of the Life of Olaudah Equiano* (1789)
+  - Thomas Clarkson, *History of the Rise, Progress and Accomplishment of the Abolition of the African Slave-Trade by the British Parliament* (2 vols, 1808)
+  - Parliamentary debates (Hansard)
+- **표준 학술서**:
+  - Eric Metaxas, *Amazing Grace: William Wilberforce and the Heroic Campaign to End Slavery* (HarperOne, 2007) — 대중 전기
+  - John Coffey, *Exodus and Liberation: Deliverance Politics from John Calvin to Martin Luther King Jr.* (Oxford, 2014)
+  - Christopher Leslie Brown, *Moral Capital: Foundations of British Abolitionism* (UNC Press, 2006) — *현대 학계 표준*
+  - Adam Hochschild, *Bury the Chains: Prophets and Rebels in the Fight to Free an Empire's Slaves* (Houghton Mifflin, 2005)
+- **다관점**:
+  - 복음주의 전통: *복음주의 신앙 = 사회 개혁의 원동력*
+  - 마르크스주의·경제사학(*Eric Williams, Capitalism and Slavery* 1944): 폐지는 *경제적 비효율성* 때문
+  - 현대 학계(*Brown*): 도덕적·종교적 운동 + 경제 변화의 *상호작용*. Williams 단순 경제론 수정
+  - 후식민·흑인사 시각: Equiano·Cugoano 같은 흑인 자유민의 역할 재평가
+- **자주 발생하는 오류**:
+  - "Wilberforce가 단독으로 노예제 폐지" → Clapham Sect 집단·Quaker 토대·흑인 자유민 증언이 함께
+  - 1807 = 노예제 폐지 → 1807은 *노예무역(slave trade)* 폐지. *노예제(slavery) 자체*는 1833
+  - 미국 노예제 = 영국과 동시 폐지 → 미국은 *1863 Emancipation Proclamation*·*1865 13th Amendment*
+  - John Newton = 노예선 선장으로 회심 후 즉시 폐지 운동 → Newton 회심(1748)과 노예무역 비판(*Thoughts upon the African Slave Trade* 1788) 사이 40년. 그 사이 일부 항해 더 함
+
+---
+
+## 19. 모더니즘·근본주의 논쟁 (1920s 미국)
+
+- **연도**: c.1900-1930s (정점 1920s)
+- **장소·인물**: 미국. *J. Gresham Machen*(1881-1937, Princeton/Westminster), *Harry Emerson Fosdick*(1878-1969, *Shall the Fundamentalists Win?* 1922 설교), *William Jennings Bryan*(1860-1925, 정치인·Scopes 검사), *Clarence Darrow*(1857-1938, Scopes 변호), *John T. Scopes*(1900-1970, 교사), *Charles Hodge*(1797-1878, Princeton 정통의 토대), *B.B. Warfield*(1851-1921, 무오설 정립).
+- **사건 핵심**:
+  - 1875-1915 *The Fundamentals* — *Stewart 형제*(Lyman·Milton) 후원의 12권 시리즈(1910-1915, A.C. Dixon·R.A. Torrey 편집). *5대 근본 교리*(*Five Fundamentals*): 성경의 *무오성(inerrancy)*, *동정녀 탄생*, *대속의 죽음*, *육체적 부활*, *재림*. (이 5개 정형은 1910 Presbyterian General Assembly의 *5 Doctrines*에 더 가깝고, *Fundamentals* 12권 시리즈와 정확히 일치하지는 않음 — 학계 주의)
+  - 1922.5.21 Harry Emerson Fosdick의 *Shall the Fundamentalists Win?* 설교 (제1차 장로교 교회 뉴욕)
+  - 1923 J. Gresham Machen, *Christianity and Liberalism* — *자유주의는 다른 종교*라는 결정적 비판
+  - 1924 *Auburn Affirmation* — 자유주의 측 1,274명 서명, *5 Doctrines를 *필수 시험*으로 만드는 것 거부
+  - 1925.7.10-21 *Scopes Trial* (Dayton, Tennessee) — *Butler Act*(진화론 교육 금지) 위반 재판. Scopes 유죄(100달러 벌금, 후에 기술적 사유로 파기), Bryan 7.26 사망
+  - 1929 Princeton Seminary 재구성 → *Machen*·*Cornelius Van Til* 등 이탈 → *Westminster Theological Seminary*(필라델피아) 설립
+  - 1936 *Orthodox Presbyterian Church*(OPC) 설립 — Machen 주도, 1937.1.1 Machen 사망
+- **1차 사료**:
+  - *The Fundamentals: A Testimony to the Truth* (12 vols, 1910-1915)
+  - J. Gresham Machen, *Christianity and Liberalism* (Macmillan, 1923; Eerdmans 재간)
+  - Harry Emerson Fosdick, *Shall the Fundamentalists Win?* (1922 설교, *The Christian Century* 게재)
+  - *The Scopes Trial: A Photographic History* (Univ. of Tennessee Press)
+- **표준 학술서**:
+  - George Marsden, *Fundamentalism and American Culture* (Oxford, 1980, 2nd ed. 2006) — *결정적 표준*
+  - Mark Noll, *Between Faith and Criticism: Evangelicals, Scholarship, and the Bible* (Harper & Row, 1986)
+  - Edward J. Larson, *Summer for the Gods: The Scopes Trial and America's Continuing Debate over Science and Religion* (Basic Books, 1997, *퓰리처상*)
+  - Bradley J. Longfield, *The Presbyterian Controversy: Fundamentalists, Modernists, and Moderates* (Oxford, 1991)
+  - D.G. Hart, *Defending the Faith: J. Gresham Machen and the Crisis of Conservative Protestantism in Modern America* (Johns Hopkins, 1994)
+- **다관점**:
+  - 근본주의 전통(*Machen*): 자유주의는 *다른 종교*. 정통 보전이 우선
+  - 자유주의(*Fosdick*): *현대 정신과의 화해*·*문자주의에서의 해방*
+  - 학계(*Marsden*): *지적 운동*으로서의 근본주의 + *사회운동*으로서의 근본주의 구분
+  - *Inherit the Wind*(1955 연극, 1960 영화) 평가: *극화된 픽션*, 실제 Scopes Trial과 차이
+  - 영화·언론의 *Bryan 희화화*는 사실 왜곡 (Bryan은 진보주의 정치인이기도 했음)
+- **자주 발생하는 오류**:
+  - Scopes Trial = 진화론의 승리 → 법적으로 Scopes 유죄. 문화적·언론적 승리만
+  - 1925 = 근본주의 종식 → 오히려 *분리주의로 강화*되며 1940s *신복음주의(Carl Henry·Billy Graham)* 형성
+  - *5 Fundamentals* = *The Fundamentals* 12권 시리즈 → 정형은 *1910 Presbyterian General Assembly 5 Doctrines*에 더 가깝다는 학계 견해
+  - "근본주의자 = 무지한 시골 사람" → Machen은 Johns Hopkins·Princeton·Marburg·괴팅겐 출신 *정상급 학자*
+
+---
+
+## 20. 제2차 바티칸 공의회 (Second Vatican Council)
+
+- **연도**: 1962년 10월 11일 개회 ~ 1965년 12월 8일 폐회 (4회기)
+- **장소·인물**: 바티칸 시국 *성 베드로 대성당*. *Pope John XXIII*(1881-1963, 재위 1958-1963) 소집, *Pope Paul VI*(1897-1978, 재위 1963-1978) 폐회. 참석 주교 약 *2,540명*. 신학 자문(*periti*): *Karl Rahner*·*Yves Congar*·*Hans Küng*·*Henri de Lubac*·*Joseph Ratzinger*(향후 *Benedict XVI*)·*Edward Schillebeeckx*·*John Courtney Murray*(종교 자유). *Tradtionalist*: *Marcel Lefebvre* 대주교.
+- **사건 핵심** — *4 Constitutions·9 Decrees·3 Declarations*:
+  - *Constitutions* (헌장):
+    - *Sacrosanctum Concilium* (1963.12.4) — 거룩한 예전, *vernacular(모국어) 미사 허용*
+    - *Lumen Gentium* (1964.11.21) — *교회 헌장*, *하나님의 백성*·*공동체적 교회론*
+    - *Dei Verbum* (1965.11.18) — *계시 헌장*, *성경과 전통의 관계*
+    - *Gaudium et Spes* (1965.12.7) — *현대 세계 사목 헌장*
+  - *Decrees* (교령) 9개: *Unitatis Redintegratio*(에큐메니즘), *Orientalium Ecclesiarum*(동방 가톨릭 교회), *Christus Dominus*(주교의 사목), *Presbyterorum Ordinis*(사제 직무), *Optatam Totius*(사제 양성), *Perfectae Caritatis*(수도생활 쇄신), *Apostolicam Actuositatem*(평신도 사도직), *Ad Gentes*(선교 활동), *Inter Mirifica*(매스미디어)
+  - *Declarations* (선언) 3개: *Dignitatis Humanae*(종교 자유), *Nostra Aetate*(비기독교 종교와의 관계, *유대인에 대한 자세 전환*·*"deicide"(살신죄) 주장 거부*), *Gravissimum Educationis*(기독교 교육)
+  - *Aggiornamento*(이탈리아어 "현대화") + *Ressourcement*(프랑스어 "원천으로의 회귀")가 양대 표어
+  - 후속: 1970 *Marcel Lefebvre*의 *SSPX(Society of St. Pius X)* 설립 → 1988 Lefebvre 4명 주교 비밀 서품으로 *자동 파문*
+- **1차 사료**:
+  - *Acta Synodalia Sacrosancti Concilii Oecumenici Vaticani II* (Vatican Polyglot Press, 32 vols, 1970-1999) — 회의록 전집
+  - 16개 공의회 문서 (라틴어 원본 + 영어·한국어 번역)
+  - *Documents of Vatican II* (Walter M. Abbott ed., America Press, 1966) — 영어 표준 합본
+  - 한국어: 한국천주교중앙협의회, *제2차 바티칸 공의회 문헌* (개정판)
+- **표준 학술서**:
+  - John W. O'Malley, *What Happened at Vatican II* (Harvard, 2008) — *결정적 표준*
+  - Massimo Faggioli, *Vatican II: The Battle for Meaning* (Paulist, 2012)
+  - Giuseppe Alberigo (ed.), *History of Vatican II* (5 vols, Orbis/Peeters, 1995-2006) — *결정적 다국적 협업 표준*
+  - Joseph Ratzinger, *Theological Highlights of Vatican II* (Paulist, 1966; 한국어 번역 있음)
+  - Yves Congar, *My Journal of the Council* (Liturgical Press, 2012, 영역)
+- **다관점**:
+  - 가톨릭 자유 신학파(*Küng·Schillebeeckx*): *Vatican II는 시작점, 더 나아가야*
+  - 가톨릭 보수파(*Ratzinger 후기·Communio*): *Vatican II는 *전통의 연속성* 속에서 해석되어야* — *Hermeneutic of Continuity*(Benedict XVI 2005.12.22 연설)
+  - 전통주의자(*SSPX·Lefebvre*): Vatican II는 *근대주의 항복*
+  - 개신교 평가: *진정한 개혁* 시각(MacCulloch, Cullmann) vs *피상적* 시각(보수 개혁주의 일부)
+  - 동방정교: *Vatican II는 일부 긍정적 변화*(에큐메니즘) + 여전히 *교황 수위권 문제 잔존*
+- **자주 발생하는 오류**:
+  - "Vatican II = 미사 영어화" → 정확히는 *vernacular(모국어) 미사 허용*, 라틴어 미사도 보존
+  - "Vatican II = 종교 자유 인정" → *Dignitatis Humanae*는 *공권력으로부터의 자유* 강조이지 *상대주의*가 아님
+  - "Vatican II = 개신교를 형제로 인정 후 가톨릭만의 결정 폐지" → *Unitatis Redintegratio*는 분리된 형제 *separated brethren* 표현. 그러나 가톨릭 교의 자체 변경은 *없다*
+  - *Nostra Aetate*가 모든 종교를 동일시 → 정확히는 비기독교 종교의 *진리의 빛*을 인정하되, *그리스도가 길·진리·생명*임을 재확인 (*NA* 2장)
+
+---
+
+## 21. 윌리엄 캐리와 근대 개신교 선교 (보강)
+
+(이 항목은 §15 *근대 선교 운동* 항과 일부 겹치지만 *Carey* 본인 사역 디테일을 추가)
+
+- **연도**: 1761-1834
+- **장소·인물**: 영국 *Paulerspury* 출생 → 인도 *Serampore*(덴마크령)
+- **사건 핵심**:
+  - 1779 회심
+  - 1789 *Particular Baptist* 안수
+  - 1792.5.30 Nottingham 설교 *"Expect great things from God; attempt great things for God"*
+  - 1792.5.31 *Particular Baptist Society for the Propagation of the Gospel amongst the Heathen*(BMS, 침례교 선교회) 설립
+  - 1792 *Enquiry* 출판
+  - 1793.6.13 가족과 함께 인도행 → 1793.11 캘커타 도착
+  - 1800 *Serampore Trio*(*Carey, Joshua Marshman, William Ward*) 결성 — 덴마크령 *Serampore*
+  - 1800.12.28 첫 인도인 회심자 *Krishna Pal* 세례
+  - 1801 *벵골어 신약* 완역 (이후 인도 6개 언어로 성경 번역 추진)
+  - 1818 *Serampore College* 설립
+  - 1834.6.9 사망 (Serampore)
+- **1차 사료**:
+  - William Carey, *An Enquiry into the Obligations of Christians, to Use Means for the Conversion of the Heathens* (Leicester, 1792)
+  - *Periodical Accounts Relative to the Baptist Missionary Society*
+  - Eustace Carey, *Memoir of William Carey* (1836)
+- **표준 학술서**:
+  - Timothy George, *Faithful Witness: The Life and Mission of William Carey* (Christian History Institute, 1991)
+  - Brian Stanley, *The History of the Baptist Missionary Society 1792-1992* (T&T Clark, 1992)
+  - Ruth A. Tucker, *From Jerusalem to Irian Jaya* (Zondervan, 1983/2004) — 대중 선교사 통사
+- **자주 발생하는 오류**:
+  - Carey = *최초 개신교 선교사* → 부정확. 모라비안(1732 St. Thomas), 덴마크-할레 선교회(1706 Tranquebar), 청교도(*John Eliot* 17세기 인디언 선교) 등이 선행. Carey는 *근대 영미 선교의 상징적 시작*
+  - "Expect great things; attempt great things"의 정확한 본문 → 1792 Nottingham 설교 원본 미보존. 후대 회상으로 전해짐. 다양한 표기 존재
 
 ---
 

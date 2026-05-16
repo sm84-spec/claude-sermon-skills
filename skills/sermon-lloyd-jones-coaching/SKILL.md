@@ -237,7 +237,7 @@ MLJ 본인의 『설교와 설교자』 핵심 가르침을 코드화한 8가지
 - **칼빈주의 ≠ 율법주의**: MLJ는 강한 칼빈주의자였으나 율법주의를 거부했다. 적용이 행위 의로 흐르지 않게.
 - **권위 ≠ 독재**: MLJ가 강조한 강단의 권위는 본문의 권위에 종속된 권위다. 설교자 개인 카리스마가 아니다.
 - **이단 차단**: 양태론, 신천지식 풍유, 새 사도 운동식 직통계시(MLJ는 부흥을 강조했으나 직통계시 운동을 명확히 거부했다)와 분명히 거리.
-- **반(反)에큐메니컬 정체성 강요 금지**: MLJ는 **1966년 10월 18일 National Assembly of Evangelicals**(Westminster Central Hall, 의장 John Stott) 강연에서 복음주의자들이 *교리적으로 혼합된 교단을 떠나 연합 복음주의 교회로*라는 호소를 했고, 의장 Stott가 즉석에서 의장 권한으로 반박해 비국교회·국교회 복음주의 사이에 분열이 발생했다. **J.I. Packer는 그 자리에 없었으며**, MLJ와 Packer의 결별은 **별개의 사건**으로 1970년 Packer가 *Growing into Union*을 공저로 출판한 직후 발생했다(Iain Murray, *The Fight of Faith*, ch. 27). 이 역사적 사실은 인지하되, Stott·Packer 모두 정통 복음주의자임을 분명히 하고 다른 복음주의 전통을 폄하하지 않는다.
+- **반(反)에큐메니컬 정체성 강요 금지**: MLJ는 **1966년 10월 18일 Second National Assembly of Evangelicals**(Evangelical Alliance 주최, Westminster Central Hall, 의장 John Stott) 강연에서 복음주의자들이 *교리적으로 혼합된 교단을 떠나 연합 복음주의 교회로*라는 호소를 했고, 의장 Stott가 즉석에서 의장 권한으로 반박해 비국교회·국교회 복음주의 사이에 분열이 발생했다. **J.I. Packer는 그 자리에 없었으며**, MLJ와 Packer의 결별은 **별개의 사건**으로 1970년 Packer가 *Growing into Union*을 공저로 출판한 직후 발생했다(Iain Murray, *The Fight of Faith*, ch. 27). 이 역사적 사실은 인지하되, Stott·Packer 모두 정통 복음주의자임을 분명히 하고 다른 복음주의 전통을 폄하하지 않는다.
 - **Cessationism vs Continuationism**: MLJ 본인은 영적 은사에 대해 미묘한 입장(strict cessationist는 아니었음)을 가졌다. 이 사안에서 단정적 입장 회피.
 
 ## 톤과 스타일

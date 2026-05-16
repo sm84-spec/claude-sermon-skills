@@ -23,7 +23,7 @@
 
 ## 오해 3 — "MLJ는 Billy Graham을 폄하했다"
 
-**실제**: 1955년 Graham London Crusade에 대해 MLJ는 *altar call*(강단 결단 호소) 방식에 신학적 의문을 제기했으나, Graham의 인격과 복음 전파 자체를 폄하한 적은 없다. Graham의 사역에 직접 협력하지는 않았으나 *공개적 비판*도 절제.
+**실제**: **1954년** Graham *London Crusade*(1954-03-01~05-22, Harringay Arena 12주)에 대해 MLJ는 *altar call*(강단 결단 호소) 방식에 신학적 의문을 제기했으나, Graham의 인격과 복음 전파 자체를 폄하한 적은 없다. Graham의 사역에 직접 협력하지는 않았으나 *공개적 비판*도 절제. **주의**: 자주 들리는 *"1955년 Graham London Crusade"*는 부정확. *1955년*은 *Glasgow All-Scotland Crusade*(Kelvin Hall) — 별개 사건.
 
 **출처**: Iain Murray, *The Fight of Faith*, ch. 16.
 
@@ -177,6 +177,65 @@
 - *십자가 중심 신학*을 칼빈에게 귀속시킬 때 정확한 표현: *Institutes 2.16* (그리스도의 사역) 또는 *Institutes 2.17* (그리스도의 공로 — *meritum Christi*).
 - *theologia crucis*는 Luther에게만 귀속.
 - 라틴어 표현은 *학계 표준 검증된 용어*만 사용. 검증 어려운 라틴어는 한국어로 풀어 쓴다.
+
+---
+
+## 오해 19 — MLJ 외 비교 인물(Tozer·Spurgeon·Edwards·Packer·Stott·박형룡 등) 세부 사실 단정
+
+**위험 영역**: 모드 D(비교) 산출 시 *비교 인물*의 사실(저서 챕터 수·출간 연도·교파 통합 연도 등)을 단정하면 할루시네이션 위험. 본 스킬은 MLJ 전공 코칭이므로 *MLJ 외 인물의 세부 통계*에 대해서는 안전 가이드를 따른다.
+
+**검증된 안전 가이드**:
+- A.W. Tozer *The Knowledge of the Holy*(Harper & Brothers, 1961): *하나님의 속성을 다루는 23개 짧은 장* 구성 — 1장(서론격) + 22장(개별 속성)으로 통상 *"약 22개 속성"*으로 인용. *"23개 속성"* 또는 *"22개 챕터"* 단정 회피, *"약 22개 속성을 다루는 23개 장 구성"* 또는 *"속성 단상집"* 일반화 권장.
+- Christian and Missionary Alliance(CMA): 1887 A.B. Simpson이 *Christian Alliance*와 *Evangelical Missionary Alliance* 두 단체를 별도 창립. **1897년** 두 단체가 *The Christian and Missionary Alliance*로 통합. 인용 시 *1887 Simpson 창립*과 *1897 CMA 통합*을 구분.
+- C.H. Spurgeon: 출생 1834-06-19, 별세 1892-01-31. Metropolitan Tabernacle 1854–1892 (London). *The Sword and the Trowel* 1865 창간. *Lectures to My Students* 1875·1877·1894(사후) 3시리즈. 단정 인용 시는 시리즈 권 수·출간 연도 정확화.
+- J.I. Packer: 출생 1926-07-22, 별세 2020-07-17. Oxford Corpus Christi College BA(1948)·MA(1952)·DPhil(1955, Richard Baxter 논문). 1952 Church of England 안수. 1979 Vancouver Regent College 이주. ***Knowing God*** (Hodder & Stoughton, 1973) — **3부·약 22장 구성**(*"22장"* 단정 가능하나 판본 차이 가능성으로 *"약 22장"* 권장). *'Fundamentalism' and the Word of God*(IVP, 1958)·*Evangelism and the Sovereignty of God*(IVP, 1961)·*Keep in Step with the Spirit*(IVP, 1984). ***Growing into Union: Proposals for Forming a United Church in England*** (SPCK, 1970) 공저자 4명: **J.I. Packer + Colin Buchanan(복음주의 앵글리칸 2명) + Eric Mascall + Graham Leonard(앵글로-가톨릭 2명)**. 이 책 출간이 MLJ와의 결별 계기.
+- John Stott: 출생 1921-04-27, 별세 2011-07-27. All Souls Langham Place 사역 1950–1975 rector, 1975–이후 rector emeritus·Director of London Institute for Contemporary Christianity. *Basic Christianity*(1958)·*The Cross of Christ*(1986).
+- **박형룡(1897–1978)**: 출생 평안북도 벽동. Princeton Theological Seminary 유학(1923–1926)·Southern Baptist Theological Seminary Th.M./Ph.D.(1933). *교의신학* 7권(*서론(기독교 변증/근본주의)·신론·인죄론·기독론·구원론·교회론·내세론*) — 한국 보수 신학 표준. 평양 장로회신학교 교수(1933–1938) → 만주 봉천신학교(1941–1945) → 1946–1947 부산고려신학교 *초기 협력*(설립 핵심은 박윤선) → **1948–1953 장로회신학교(서울) 교장 → 1953–1959 총회신학교 교장**(1953년 분쟁 후 총회신학교 본격 시작, 1959년 예장합동/통합 분열). *"Veritas Veritatis"*(진리의 진리)는 박형룡 신학을 요약하는 표현으로 자주 인용되나 *박형룡 본인 명문 모토*로 단정 회피 — *후학·연구자들이 그의 신학을 요약하는 표현*으로 일반화.
+- 박윤선(1905–1988): *성경주석* 시리즈 신구약 26권 + 신학적 단상. 1946년 부산고려신학교(고신) 설립 핵심. **합동신학원/합동신학대학원(수원) 1980 창립**.
+- **예장합동/통합 분열**: 1959년 9월 제44회 총회. *WCC 가입 논쟁* 본격 계기. 박형룡 측이 예장합동, 통합 측이 예장통합.
+
+**본 스킬 처리**: 비교 인물 통계를 단정해야 할 때는 위 검증 가이드 안에서만. 가이드에 없는 세부는 *"학계 자료에 따라 다소 표기 차이가 있다"*로 일반화.
+
+---
+
+## 오해 20 — 성경 본문 절 번호·정확 인용 오류
+
+**위험 영역**: 모드 A·C에서 성경을 *기억으로* 인용할 때 절 번호 오기·자유 인용으로 미세 오류 발생 가능.
+
+**검증된 안전 가이드 — 본 스킬이 자주 인용하는 본문의 정확 절 번호**:
+- **눅 15:22 = *제일 좋은 옷*** (*"아버지는 종들에게 이르되 제일 좋은 옷을 내어다가 입히고…"*). **눅 15:23 = *살진 송아지*** (*"그리고 살진 송아지를 끌어다가 잡으라…"*). 두 구절을 혼동하지 말 것.
+- **눅 5:31 정확 어구(개역개정)**: *"건강한 자에게는 의사가 쓸 데 없고 병든 자에게라야 쓸 데 있나니"* (마 9:12·막 2:17과 평행). 자유 인용("멀쩡한 자에게…") 회피, 개역개정 정확 어구 사용.
+- **시 1:1** 정확 어구(개역개정): *"복 있는 사람은 악인들의 꾀를 따르지 아니하며 죄인들의 길에 서지 아니하며 오만한 자들의 자리에 앉지 아니하고"*.
+- **시 51:4** 정확 어구(개역개정): *"내가 주께만 범죄하여 주의 목전에 악을 행하였사오니"*.
+
+**본 스킬 처리**: 본문 인용 단계에서 *절 번호와 어구를 표준 개역개정에 정확히 맞춤*. 자유 인용은 의미 일치만 추구하지 말고 *표준 어구로 옮김*. 기억이 흐릴 때는 *(개역개정)*으로 명시하고 표준 어구로 인용.
+
+---
+
+## 오해 21 — MLJ Westminster Conference 강연(*The Puritans*) 연도 단정
+
+**위험 영역**: MLJ가 *Westminster Conference*(=Puritan Conference 1950년 창립, 1971년 이후 Westminster Conference로 명칭)에서 행한 강연 16편(1959–1978)이 *The Puritans: Their Origins and Successors*(Banner of Truth, 1987)에 수록되어 있다. 강연 *연도*를 단정하면 오류 위험.
+
+**검증된 안전 가이드**:
+- *The Puritans* 책에는 MLJ가 *1959–1978년 사이* 행한 16편 강연이 *연대순으로* 수록되어 있다.
+- 각 강연의 *정확한 연도*를 단정해야 할 때는 책 차례에서 직접 확인. 일반화 시는 *"MLJ는 Westminster Conference에서 [주제]를 다룬 강연을 했으며, 이 강연은 *The Puritans* 책에 수록되었다"*로 표기.
+- 특히 *Sandemanianism* 강연: *The Puritans* 책에 수록된 한 장이나, 정확한 강연 연도는 *책에서 직접 확인*하지 않으면 단정 회피.
+
+---
+
+## 오해 22 — 종교개혁·청교도 *라틴어 표어/모토* 단정
+
+**위험 영역**: 종교개혁·청교도 신학의 *라틴어 표어/모토*를 *원전 단일 출처*로 단정하면 위험. 많은 표어가 *후학들이 정리한 표어*이지 *원저자 본인이 명문 표어로 쓴 것*이 아닌 경우 多.
+
+**검증된 안전 가이드**:
+- *fides est fiducia*(믿음은 신뢰다): 종교개혁 신학의 *fiducia 강조 전통*을 요약하는 표현. 칼빈·종교개혁 정통주의가 *fiducia*를 강조한 것은 분명하나, *fides est fiducia*가 *단일 원전 어구*로는 단정 어려움. *종교개혁의 fiducia 강조 전통*으로 일반화.
+- *cognitio Dei*(하나님의 인식): Calvin *Institutes* 1권 도입부 명문. 안전.
+- *cognitio Dei creatoris* + *cognitio Dei redemptoris*: Calvin *Institutes* 1·2권 구조 표제. 안전.
+- *theologia crucis*(십자가의 신학): Luther 1518 Heidelberg Disputation 명문 — 단정 가능.
+- *Veritas Veritatis*(진리의 진리): 박형룡 신학을 요약하는 후학적 표현 — *박형룡 본인 명문 모토*로 단정 회피.
+- *Sola Scriptura·Sola Fide·Sola Gratia·Solus Christus·Soli Deo Gloria* (Five Solas): *종교개혁 후학들이 정리한 표어*. *루터/칼빈 본인이 이 다섯을 묶어 명문 표어로 쓴 단일 출처는 없다.* 표어 자체는 안전하나 *원전 단일 출처* 단정 회피.
+
+**본 스킬 처리**: 라틴어 표어는 *학계 표준 검증된 어구*만 사용. *원전 단일 인용*으로 단정 어려운 표어는 *해당 신학 전통의 요약 표현*으로 표기.
 
 ---
 

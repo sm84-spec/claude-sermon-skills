@@ -138,7 +138,7 @@
 - *Institutes* 3.23.7의 라틴어 *decretum horribile*는 "끔찍한·소름끼치는"이 아니라 *"두려운·경외할 만한·전율을 일으키는"* 의미.
 - McNeill-Battles 영역(*Institutes of the Christian Religion*, Library of Christian Classics, Westminster, 1960): "dreadful decree".
 - Beveridge 19세기 영역: "horrible decree" (이는 시대적 영어 어감이 달라 *경외/전율*에 가까운 표현이었음).
-- **학계 합의**: Paul Helm, *Calvin: A Guide for the Perplexed* (T&T Clark, 2008), pp. 102–105; Richard Muller, *Christ and the Decree* (Baker, 1986; rev. 2008), ch. 1–2.
+- **학계 합의**: Paul Helm, *Calvin: A Guide for the Perplexed* (T&T Clark, 2008), pp. 102–105; Richard Muller, *Christ and the Decree: Christology and Predestination in Reformed Theology from Calvin to Perkins* (Durham, NC: Labyrinth Press, 1986; Baker 재간 1988; Baker Academic 새 서문 재간 2008, ISBN 9780801036101), ch. 1–2.
 
 ### 칼빈 본인의 어감
 - 칼빈은 예정의 *신비 앞에서의 경외*를 표현한 것이지, 자기 신학에 *혐오감*을 표한 것이 아니다.
@@ -178,7 +178,7 @@
 ### 진실
 - 칼빈 자신은 *전택설·후택설(infralapsarianism)*의 정형화된 구분을 사용하지 않았다. 이 구분은 17세기 도르트 회의(1618–1619) 전후 정통주의 시기에 발전.
 - 칼빈의 *Institutes* 3.21–24를 면밀히 보면 *후택설*에 가까운 흐름 (창조 → 타락 *허용* → 선택·유기)이 보이나, 칼빈 자신은 이 도식을 의식적으로 채택하지 않았다.
-- Theodore Beza가 *전택설*을 발전시켰고, 일부 학자는 베자와 칼빈을 동일시하나 학계 다수(Muller, *Christ and the Decree* 1988)는 *베자 ≠ 칼빈*으로 본다.
+- Theodore Beza가 *전택설*을 발전시켰고, 일부 학자는 베자와 칼빈을 동일시하나 학계 다수(Muller, *Christ and the Decree* 1986/2008)는 *베자 ≠ 칼빈*으로 본다.
 
 ### 산출물에서 회피할 것
 - 칼빈을 *전택설자*로 단정 금지.

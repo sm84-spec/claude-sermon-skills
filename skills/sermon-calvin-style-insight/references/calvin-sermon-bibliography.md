@@ -10,15 +10,17 @@
 
 | 영문판 제목 | 출판사 / 연도 | 비고 |
 |------------|------------|------|
-| *Sermons on Job* (3 vols) | Banner of Truth, 1574 영역본 facsimile (재간 1993) | Arthur Golding 영역 |
+| *Sermons of Maister John Calvin Upon the Booke of Job* (facsimile) | Banner of Truth, 1574 영역본 facsimile 재간 1993, ISBN 9780851516448 | Arthur Golding 영역 |
+| *Sermons from Job* (선집·현대 영어) | Eerdmans, 1952; Baker 재간 1980 | Leroy Nixon 영역 |
+| *Sermons on Job* (전 159편 현대 신역, 다권) | Banner of Truth, 2022~ | Rob Roy McGregor 신역 |
 | *Sermons on Ephesians* | Banner of Truth, 1973 (재간) | Arthur Golding 1577년 영역, 현대 철자 |
 | *Sermons on Galatians* | Banner of Truth, 1995 | Kathy Childress 신역 |
 | *Sermons on Acts 1–7* | Banner of Truth, 2008 | Rob Roy McGregor 신역 |
 | *Sermons on the Beatitudes* | Banner of Truth, 2006 | Robert White 영역 |
-| *Sermons on Election and Reprobation* | Old Paths Publications, 1996 | John Field 1579 영역 재간 |
+| *Sermons on Election & Reprobation* | Old Paths Publications, 1996, ISBN 9780963255792 | John Field 1579 영역 (*Thirteene Sermons … entreating of the free Election of God in Iacob, and of Reprobation in Esau*) 재간, 현대 철자 |
 | *Sermons on 2 Samuel (chapters 1–13)* | Banner of Truth, 1992 | Douglas Kelly 영역 |
 | *Sermons on Genesis (1–11)* | Banner of Truth, 2009 | Rob Roy McGregor 영역 |
-| *Sermons on the Deity of Christ* | Old Paths Publications / Solid Ground | |
+| *Sermons on the Deity of Christ* | Old Paths Publications | (출판년 확인 후 인용) |
 | *Songs of the Nativity: Selected Sermons on Luke 1 & 2* | Banner of Truth, 2008 | Robert White 영역 |
 
 **한국어판**: 칼빈 설교집 한국어 번역은 부분적이며 출판사·연도 검증이 까다롭다. 사용자가 한국어판 인용을 요청할 때는 **반드시 출판사·연도를 확인 후** 인용하고, 불확실하면 영문판 출처를 우선 제시한다.
@@ -35,14 +37,25 @@
 ## C. 표준 학술서 — 칼빈 설교 연구
 
 ### C-1. 영어권 표준
-- **T.H.L. Parker, *Calvin's Preaching*** (Edinburgh: T&T Clark, 1992 / Louisville: Westminster John Knox, 1992). 칼빈 설교론 연구의 기준점. 2017년 페이퍼백 재간 (T&T Clark, ISBN 9780567292117).
+- **T.H.L. Parker, *Calvin's Preaching*** (Edinburgh: T&T Clark, 1992 / Louisville: Westminster John Knox, 1992, ISBN 9780664253097). 칼빈 설교론 연구의 기준점. T&T Clark 페이퍼백 재간 ISBN 9780567292117(연도 확인 후 인용). Parker의 초기 단행본 *The Oracles of God: An Introduction to the Preaching of John Calvin* (London: Lutterworth, 1947; 재간 James Clarke, 2002, ISBN 9780227170922)도 동일 주제의 입문서.
 - **Hughes Oliphant Old, *The Reading and Preaching of the Scriptures in the Worship of the Christian Church, Vol. 4: The Age of the Reformation*** (Grand Rapids: Eerdmans, 2002). 종교개혁기 설교사의 결정판. 칼빈은 pp. 90–132 집중 분석.
 - **Steven J. Lawson, *The Expository Genius of John Calvin*** (Orlando: Reformation Trust, 2007). 입문서. 32가지 칼빈 설교 원칙 제시. ISBN 9781567690408.
 - **Dawn DeVries, *Jesus Christ in the Preaching of Calvin and Schleiermacher*** (Louisville: Westminster John Knox, 1996). 그리스도론적 설교 분석.
 - **Wilhelmus H.Th. Moehn, *"God Calls Us to His Service": The Relation between God and His Audience in Calvin's Sermons on Acts*** (Geneva: Droz, 2001). 사도행전 설교의 회중 관계 분석.
 - **Barbara Pitkin, *Calvin, the Bible, and History: Exegesis and Historical Reflection in the Era of Reform*** (Oxford University Press, 2020). 칼빈의 본문·역사 인식. ISBN 9780190093273.
 - **Scott M. Manetsch, *Calvin's Company of Pastors: Pastoral Care and the Emerging Reformed Church, 1536–1609*** (Oxford University Press, 2013). 제네바 목회자 공동체와 설교 환경. ISBN 9780190224578.
-- **Wim Janse 외, *Calvinus Sacrae Scripturae Professor* / *Calvin and the Reformation*** 시리즈 (Refo500 / V&R). 칼빈 학회 논문집 다수.
+- **Wim Janse 외, *Calvinus Sacrae Scripturae Professor* / *Calvin and the Reformation*** 시리즈 (Refo500 / Vandenhoeck & Ruprecht). 칼빈 학회 논문집 다수.
+- **Olivier Millet, *Calvin et la dynamique de la parole: Étude de rhétorique réformée*** (Paris: Honoré Champion, 1992; *Bibliothèque Littéraire de la Renaissance*, Série 3, vol. 28; Classiques Garnier 재간 2019). 칼빈 수사 분석의 표준 프랑스어 학술서.
+- **Richard A. Muller, *Christ and the Decree: Christology and Predestination in Reformed Theology from Calvin to Perkins*** (Durham, NC: Labyrinth Press, 1986; Grand Rapids: Baker 재간 1988; Baker Academic 새 서문 재간 2008, ISBN 9780801036101). 칼빈-베자 비교, 전택설 단정 오해 차단.
+- **Richard A. Muller, *The Unaccommodated Calvin: Studies in the Foundation of a Theological Tradition*** (Oxford University Press, 2000). 칼빈 본문 충실성·해석법.
+- **Paul Helm, *Calvin: A Guide for the Perplexed*** (London: T&T Clark, 2008, ISBN 9780567032553). *decretum horribile* 정확 해석.
+- **B.B. Warfield, *Calvin and Calvinism*** (New York: Oxford University Press, 1931, posthumous; *The Works of Benjamin B. Warfield* Vol. V로도 재간). *Soli Deo gloria* 정식화 주의.
+- **Edward Dowey, *The Knowledge of God in Calvin's Theology*** (New York: Columbia University Press, 1952; 개정판 Grand Rapids: Eerdmans, 1994).
+- **Julie Canlis, *Calvin's Ladder: A Spiritual Theology of Ascent and Ascension*** (Eerdmans, 2010). 칼빈을 영성적·체험적 신학자로 재해석.
+- **Brian A. Gerrish, *Grace and Gratitude: The Eucharistic Theology of John Calvin*** (Edinburgh: T&T Clark, 1993). 칼빈 성찬론(영적 임재).
+- **Keith A. Mathison, *Given for You: Reclaiming Calvin's Doctrine of the Lord's Supper*** (Phillipsburg, NJ: P&R Publishing, 2002). 칼빈 성찬론 영적 임재 변호.
+- **Wilhelm Niesel, *The Theology of Calvin*** (Philadelphia: Westminster Press, 1956; Lutterworth 영문 원판; 독일어 원본 *Die Theologie Calvins* 1938).
+- **David L. Puckett, *John Calvin's Exegesis of the Old Testament*** (Westminster John Knox, 1995).
 
 ### C-2. 칼빈 평전 (설교 사역 맥락)
 - **Bruce Gordon, *Calvin*** (New Haven: Yale University Press, 2009). 현대 표준 칼빈 평전. ISBN 9780300170849 (pb).

@@ -1,6 +1,7 @@
-# sermon-calvin-style-insight 정밀 검증 보고서
+# sermon-calvin-style-insight 정밀 검증 보고서 V1
 
 **작성**: 2026-05-13
+**후속**: V2 보고서(`TEST-REPORT-V2.md`, 2026-05-16)에서 *V1이 놓친 사실 오류 3건 + 일관성 결함 17건 = 20건* 추가 보강 완료. V2는 이전과 *완전히 다른 10개 케이스*로 재검증.
 **검증 기준**: `/goal` 합격 기준 4가지
 1. **할루시네이션 0%** — 출처·인용·학자 정보가 모두 검증 가능
 2. **원문 일치** — 1차 자료(*Institutes*·*Sermons*·*Commentaries*)의 요지와 paraphrase 일치

@@ -45,13 +45,90 @@ description: 성경 한 구절을 9개 필수 번역본·종교 문헌으로 다
 - 8·9번은 **대응 본문이 있으면 인용, 없으면 유사 주제·인물·교훈을 언급**하고 그 사실을 명시.
 - 사용자가 더 많은 번역본을 원하거나 특정 번역(예: 메시지성경, NLT)을 명시하면 추가.
 
+## 출처 투명성 원칙 (CRITICAL)
+
+본 스킬의 9 layer 비교에서 *각 인용의 출처 종류*는 본질적으로 다르다. 사용자가 학술적 신뢰성을 평가할 수 있도록 출처 종류를 *투명하게 분류*한다:
+
+### 출처 종류 5가지
+
+| 카테고리 | 의미 | 학술적 신뢰도 |
+|---------|------|--------------|
+| **DETERMINISTIC_DB** | `lookup_verified_citation.py` 데이터베이스에 등재된 본문·사실 | ★★★ 1차 출처(Stuttgart Vulgate·NA28·BHS) 검증됨 |
+| **DETERMINISTIC_CALC** | `lookup_psalm_numbering.py`·`lookup_jeremiah_numbering.py`의 결정론적 계산 | ★★★ 학술 표준 매핑 |
+| **LLM_TRAINING_TEXT** | LLM 학습 데이터에서 추출한 본문 인용 (KRV/NIV/원어/LXX/천주교/추가 번역) | ★★ 외부 1차 출처 검증 권장 |
+| **LLM_REASONING** | LLM의 분석·추론 (차이점·공통점·번역 포인트·종합 통찰) | ★★ 학술 출판물 교차 점검 권장 |
+| **FALLBACK_DISCLOSURE** | 자신 없음·미등재 명시 | ★★★ (정직성) |
+
+### 9 layer의 기본 출처 분류
+
+| Layer | 일반적 출처 | 권장 외부 검증 |
+|-------|------------|-------------|
+| 1) 개역개정 | LLM_TRAINING_TEXT | Bible Gateway·STEPbible |
+| 2) NIV | LLM_TRAINING_TEXT | BibleGateway·Biblia.com |
+| 3) 원어 (헬라어/히브리어) | LLM_TRAINING_TEXT | NA28·BHS·STEPbible |
+| 4) LXX/반대 원어 | LLM_TRAINING_TEXT | Rahlfs-Hanhart Septuaginta |
+| 5) Vulgata | **DETERMINISTIC_DB** (등재 시) / FALLBACK_DISCLOSURE (미등재 시) | vatican.va·Stuttgart Vulgate |
+| 6) 천주교 성경 2005 | LLM_TRAINING_TEXT | 한국천주교주교회의 공식 |
+| 7) 추가 번역 | LLM_TRAINING_TEXT | 해당 번역의 공식 출처 |
+| 8) 코란 | **DETERMINISTIC_DB** (등재 토픽) / LLM_TRAINING_TEXT (그 외) | Quran.com·김용선·최영길역 |
+| 9) 탈무드 | **DETERMINISTIC_DB** (등재 토픽) / LLM_TRAINING_TEXT (그 외) | Sefaria.org·Soncino영역판 |
+
+### 출력 권고
+- 학술적 정직성을 위해 *출력 말미* 또는 *각 layer 직후*에 "*외부 검증 권장 출처*"를 명시 (특히 LLM_TRAINING_TEXT layer).
+- 사용자가 `scripts/audit_claims.py`로 출력의 각 주장 분류를 확인 가능.
+
+---
+
+## 미등재 본문 처리 프로토콜 (CRITICAL)
+
+본 스킬의 검증된 인용 데이터베이스(`scripts/lookup_verified_citation.py`)는 *유한*하다. 사용자가 제시한 본문이 등재 데이터에 *없을 경우*, 다음 프로토콜을 *반드시* 따른다:
+
+### 1단계: lookup 시도
+```
+python3 scripts/lookup_verified_citation.py vulgata "[본문]"
+```
+- 등재 → 정확한 본문·출처·신학적 노트와 함께 사용
+- 미등재 → 2단계로
+
+### 2단계: 미등재 본문에 대한 명시적 폴백
+출력에 다음을 *반드시* 포함:
+```
+### 5) 라틴어 Vulgata (Vg)
+> **[본문 표기 미확정 — 검증 필요]**
+> 본 스킬의 검증된 데이터베이스에 본 본문이 등재되어 있지 않습니다.
+> 정확한 본문은 다음에서 확인 권장:
+>   • Vatican.va (Nova Vulgata 1979 공식): https://www.vatican.va/archive/bible/nova_vulgata/documents/
+>   • Drbo.org (Douay-Rheims-Clementine 병행)
+>   • Bibliacatholica.com (Vulgata Clementina 1592)
+> 추정 인용을 피하기 위해 정확한 본문은 사용자 확인 후 보강합니다.
+```
+
+### 3단계: 9 layer의 다른 부분은 정상 진행
+- 한국어 개역개정·NIV·천주교 성경·새번역/ESV 등은 LLM 본문 인용 진행 (단, 자신 없으면 `[표기 미확정]` 부분 표기)
+- 코란·탈무드는 `lookup_verified_citation.py quran|talmud "[주제]"` 시도. 미등재 시 동일 폴백.
+
+### 4단계: 분석 단계는 진행
+차이점·공통점·번역 포인트 분석은 *확보된 본문*만 기반으로 진행. *추정* 분석 금지.
+
+### 등재 확장 권유
+사용자가 동일 본문을 반복 조회하거나 중요도가 높다고 판단되면, 출력 말미에 다음 안내:
+```
+이 본문은 본 스킬에 등재되어 있지 않습니다. 박사님께서 본문을 확인해 주시면, 
+references/와 lookup_verified_citation.py에 출처와 함께 등재하여 향후 검증된 인용으로 사용하겠습니다.
+```
+
+---
+
 ## 핵심 운영 원칙
 
-1. **본문 정확성 최우선**: 각 번역본의 본문을 인용할 때 토씨 하나까지 정확히. 자신 없으면 그 부분을 명시 ("본문 표기에 자신 없음 — 사용자 확인 필요").
+1. **본문 정확성 최우선**: 각 번역본의 본문을 인용할 때 토씨 하나까지 정확히. 자신 없으면 그 부분을 명시 ("[본문 표기 미확정 — 사용자 확인 필요]"). 추정 인용 절대 금지.
 2. **원어는 음역 병기**: 헬라어·히브리어 원문은 (a) 원문, (b) 영어 음역, (c) 한글 발음 표기 3줄로 제공.
 3. **코란·탈무드는 인용 출처 명시**: 코란은 *수라:절* 형식 (예: 코란 4:171), 탈무드는 *바빌론 탈무드 마쎄켓 페이지* 형식 (예: b. Sanhedrin 38a).
-4. **종교 간 신학적 차이 정직**: 코란·탈무드의 본문이 기독교적 의미와 다를 때 그 사실을 분명히 명시한다. 무리한 일치 또는 무리한 대립 모두 회피.
-5. **번역 전통 분석**: 단순 본문 나열이 아닌, **왜 이렇게 다른가**를 번역 철학(formal vs dynamic equivalence), 사본 전통, 신학적 강조점 차이로 풀어낸다.
+4. **한국어 코란 인용은 반드시 번역자 명시**: 김용선역·최영길역·조희선역 중 어느 판인지, 출처 불명 시 "필자 사역" 명시.
+5. **종교 간 신학적 차이 정직**: 코란·탈무드의 본문이 기독교적 의미와 다를 때 그 사실을 분명히 명시한다. 무리한 일치 또는 무리한 대립 모두 회피.
+6. **번역 전통 분석**: 단순 본문 나열이 아닌, **왜 이렇게 다른가**를 번역 철학(formal vs dynamic equivalence), 사본 전통, 신학적 강조점 차이로 풀어낸다.
+7. **자료 강제 로드**: 출력 시작 전 `references/anti-hallucination-checklist.md`, `lxx-mt-numbering.md`, `quran-verified-citations.md`, `talmud-verified-citations.md`, `vulgata-facts.md`, `common-misreadings.md`를 모두 확인한다.
+8. **결정론적 도구 사용**: 시편·예레미야 번호 변환은 `scripts/lookup_psalm_numbering.py`·`lookup_jeremiah_numbering.py`로 결정론적 확인. 출력 직전 `run_all_checks.py`로 자가 검증.
 
 ## 입력 처리
 
@@ -178,9 +255,16 @@ description: 성경 한 구절을 9개 필수 번역본·종교 문헌으로 다
 - 탈무드: 아케다(עֲקֵדָה, Akedah) 전통 — b. Sanhedrin 89b(사탄의 고발이 시험의 동인), m. Pirkei Avot 5:3(아브라함의 10대 시험 중 최대). 풍부한 대응 자료.
 
 ### 시편·잠언 본문
-- 히브리어 원문 + 70인역 함께 제시 (시편은 70인역과 마소라 본문의 절수가 달라지는 경우 명시).
+- 히브리어 원문 + 70인역 함께 제시.
+- **시편 번호**: MT vs LXX/Vulgata는 거의 항상 1 차이. **`scripts/lookup_psalm_numbering.py MT [장:절]`로 결정론적 확인**. 예: MT 23 = LXX/Vg 22; MT 116·147은 LXX에서 분할되어 +2 차이.
+- **잠언 번호**: LXX는 잠 24장 이후 MT와 *순서가 크게 다름*. 잠 30·31장 위치가 다름. `references/lxx-mt-numbering.md` 참조.
 - 코란: 다윗(다우드)의 시편(자부르)에 대한 일반적 언급(코란 4:163, 17:55) 인용 가능. 직접 대응 본문은 거의 없음.
-- 탈무드: 시편·잠언에 대한 미드라쉬·랍비 해석 풍부.
+- 탈무드: 시편·잠언에 대한 미드라쉬(Midrash Tehillim·Bereshit Rabbah)·랍비 해석 풍부.
+
+### 예언서 본문 (특히 예레미야)
+- 히브리어 원문 + 70인역 함께 제시.
+- **예레미야 번호 주의**: MT vs LXX는 *단순 1 차이가 아님*. LXX 예레미야는 MT보다 ~13% 짧고 25:14 이후 장 순서 재배열. **`scripts/lookup_jeremiah_numbering.py MT [장:절]`로 결정론적 확인**. 예: MT 31:31 (새 언약) = LXX 38:31, MT 29:11 = LXX 36:11.
+- 다니엘·에스더는 LXX·Vulgata에 본문 추가 (한국 천주교 2005 포함, 개역개정 미포함).
 
 ### 율법 본문
 - 히브리어 + 70인역 + Vulgata 비교가 특히 풍성.
@@ -227,25 +311,75 @@ description: 성경 한 구절을 9개 필수 번역본·종교 문헌으로 다
 
 - **본문 모호**: 한 번 짧게 확인.
 - **자료 부족**: 코란·탈무드 직접 대응이 없으면 명시.
-- **원어 본문 자신 없음**: 그 부분을 명시하고 사용자 확인 요청.
+- **원어 본문 자신 없음**: 그 부분을 명시하고 사용자 확인 요청. `[자신 없음 — 사용자 확인 필요]` 표기.
 - **이단적 해석 요청**: 정통 해석을 분명히 제시.
 - **혼합주의적 결론 유도**: 각 전통의 차이를 정직히 유지.
-- **Vulgata caritas 분석 시**: caritas는 기독교의 3대 **신학적 덕(theological virtue)** — fides(믿음)·spes(소망)·caritas(사랑) — 중 하나이며, **추기경적 덕(cardinal virtue)** — 사려·정의·용기·절제 — 과 다름. 혼동 금지.
+- **Vulgata caritas 분석 시**: caritas는 기독교의 3대 **신학적 덕(theological virtue)** — fides(믿음)·spes(소망)·caritas(사랑) — 중 하나이며, **추기경적 덕(cardinal virtue)** — 사려(prudentia)·정의(iustitia)·용기(fortitudo)·절제(temperantia) — 과 다름. 혼동 금지. `scripts/verify_citation_format.py`로 자동 감지 가능.
+- **Vulgata 판본 명시 필수**: Clementine(1592)·Nova Vulgata(1979)·Stuttgart(Weber-Gryson)는 부분 본문이 다름. 인용 시 어느 판인지 명시. `references/vulgata-facts.md`에 검증된 차이 등재.
 - **LXX 어순 분석 시**: "LXX가 MT와 어순/단어 순서가 역전된다"는 주장은 원문 대조 후에만 기술. 추정으로 역전 주장 금지.
-- **코란 한국어 인용**: 출처 불명 시 반드시 "필자 사역" 표기 (코란 인용 원칙 참조).
-- **탈무드 페이지 번호 불확실 시**: 번호를 생략하고 "마쎄켓 참조(Sefaria 확인 권장)" 표기. 잘못된 번호를 자신있게 제시하는 것보다 "대략 ~장 범위"로 범위를 넓히는 편이 낫다. 특히 b. Berakhot의 경우: 라반 요하난 벤 자카이의 임종 기도 = **b. Berakhot 28b** (17a 아님).
-- **신약 본문 컨텍스트 주의**: 렘 29:11 (포로 공동체 약속, 개인 번영이 아님), 빌 4:13 (자족의 비결, 무제한 능력이 아님), 룻 1:16 (시어머니-며느리, 결혼 서약이 아님) — 이 세 본문은 현대에 가장 많이 오용되므로 반드시 원래 컨텍스트를 출력에 명시한다.
+- **시편 번호 차이**: MT vs LXX/Vulgata는 거의 항상 1 차이 (MT 116·147 분할은 +2). `scripts/lookup_psalm_numbering.py`로 결정론적 확인.
+- **예레미야 번호 차이**: LXX는 단순 1 차이가 아님 (25:14 이후 재배열, MT 46-51 = LXX 26-31). `scripts/lookup_jeremiah_numbering.py`로 확인.
+- **코란 한국어 인용**: 출처 불명 시 반드시 `필자 사역` 표기. 김용선·최영길·조희선판 명시. `references/quran-verified-citations.md`의 등재 본문만 단정 인용.
+- **코란 본문 vs 해석 구별**: 수라 37:99-113은 아브라함 아들 이름 *미명시*. "이스마엘로 단정한다"는 *이슬람 해석*이지 *본문*이 아님. 본문과 해석 분리.
+- **탈무드 페이지 번호 불확실 시**: 번호를 생략하고 "마쎄켓 참조(Sefaria 확인 권장)" 표기. 잘못된 번호를 자신있게 제시하는 것보다 "대략 ~장 범위"로 범위를 넓히는 편이 낫다. 특히 b. Berakhot의 경우: 라반 요하난 벤 자카이의 임종 기도 = **b. Berakhot 28b** (17a 아님). `references/talmud-verified-citations.md`의 등재 본문만 단정 인용.
+- **검열본/비검열본 차이**: Vilna판은 기독교 검열본. 예수 관련 본문(b. Sanhedrin 43a 등) 인용 시 Steinsaltz판·Soncino영역판 등 비검열본 명시.
+- **컨텍스트 오용 본문 주의 (8종)**: 렘 29:11 (포로 공동체 약속), 빌 4:13 (자족의 비결), 룻 1:16 (시어머니-며느리), 시 37:4 (여호와를 기뻐함이 마음의 소원), 마 18:20 (권징 컨텍스트), 마 7:7 (산상수훈), 잠 22:6 (격언), 시 91:1-2 (사탄도 인용 — 마 4:6). `references/common-misreadings.md` 전체 점검.
+- **NIV 판본 차이**: 1984판과 2011판이 다름 ("brothers" → "brothers and sisters" 등). 인용 시 어느 판인지.
+- **KJV 판본 차이**: 1611 원판과 1769 Blayney판이 다름. 현대 인쇄본은 1769판 기준.
+- **Comma Johanneum**: 요일 5:7-8 후대 추가본은 Clementine·KJV에만 있음. NA28·Nova Vulgata·Stuttgart에 없음. 인용 시 명시.
+- **마 6:13 결구**: "나라와 권세와 영광"은 Byzantine TR·KJV에만 있음. NA28·Vulgata 어느 판에도 없음. 천주교 주기도문에 없는 이유.
 
 ## 작업 흐름
 
 1. 사용자 본문 입력 확인.
-2. 본문 분량 확인 (5절 초과 시 한 번 묻기).
-3. 9개 번역본·문헌 본문 수집.
-4. 차이점·공통점·번역 포인트 분석.
-5. 종합 통찰 한 단락.
-6. 후속 작업 안내 (다른 본문 비교 또는 sermon-bible-dictionary 등으로 이양).
+2. **`references/` 6개 파일 로드**: anti-hallucination-checklist, lxx-mt-numbering, quran-verified-citations, talmud-verified-citations, vulgata-facts, common-misreadings.
+3. 본문 분량 확인 (5절 초과 시 한 번 묻기).
+4. **결정론적 도구 사용** (해당 시): 시편·예레미야 번호 → `scripts/lookup_psalm_numbering.py`·`lookup_jeremiah_numbering.py`. 코란·탈무드 검증된 인용 → `scripts/lookup_verified_citation.py`.
+5. 9개 번역본·문헌 본문 수집. 자신 없는 부분은 `[자신 없음 — 사용자 확인 필요]` 표기.
+6. 차이점·공통점·번역 포인트 분석.
+7. 종합 통찰 한 단락.
+8. **출력 직전 자가 검증**: `references/anti-hallucination-checklist.md` 모든 항목 통과 확인. 필요 시 `scripts/run_all_checks.py`로 출력 텍스트 점검.
+9. 후속 작업 안내 (다른 본문 비교 또는 sermon-bible-dictionary 등으로 이양).
 
 ## 시작 메시지
 
 스킬이 발동되어 본문이 명확하면 환영 메시지 없이 바로 비교 분석에 들어간다.
 본문이 모호하면: *"어느 본문을 비교해 드릴까요? 단일 구절 또는 5절 이하의 짧은 본문이면 가장 효과적입니다."*
+
+## 부속 자료 (references/ + scripts/)
+
+본 스킬은 다음 부속 자료와 함께 작동한다. 출력 시작 전 *반드시* 로드.
+
+### references/ (6개 — 사실 데이터)
+- `anti-hallucination-checklist.md` — 9 layer 인용 점검표
+- `lxx-mt-numbering.md` — 시편·예레미야·잠언·다니엘·에스더 LXX-MT 차이
+- `quran-verified-citations.md` — 검증된 코란 사실 18+개
+- `talmud-verified-citations.md` — 검증된 탈무드 사실 10+개, 마쎄켓 63개 표준 명칭
+- `vulgata-facts.md` — Clementine·Nova Vulgata·Stuttgart 판본별 검증된 차이
+- `common-misreadings.md` — 자주 발생하는 32개 오해 카탈로그
+- `methodology.md` — 작업 단계·결정 기준·자기 검증 절차
+
+### scripts/ (5개 — 결정론적 도구)
+- `lookup_psalm_numbering.py` — MT/LXX/Vulgata 시편 번호 변환 (24건 자체 테스트 통과)
+- `lookup_jeremiah_numbering.py` — MT/LXX 예레미야 장 매핑 (11건 자체 테스트 통과)
+- `lookup_verified_citation.py` — 등재된 코란·탈무드·Vulgata 인용 사실 lookup (5건 자체 테스트 통과)
+- `verify_citation_format.py` — 코란/탈무드/Vulgata 인용 형식·b. Berakhot 17a 오기·caritas 혼동 자동 감지 (5건 자체 테스트 통과)
+- `verify_output_structure.py` — 9 layer + 분석 섹션 모두 존재 검증 (3건 자체 테스트 통과)
+- `run_all_checks.py` — 위 4개 통합 + 컨텍스트 오용 자동 점검 (단일 진입점)
+
+### 사용법
+```
+# 시편 번호 변환
+python3 scripts/lookup_psalm_numbering.py MT 23:1
+
+# 예레미야 번호 변환
+python3 scripts/lookup_jeremiah_numbering.py MT 31:31
+
+# 검증된 인용 lookup
+python3 scripts/lookup_verified_citation.py quran "예수 십자가 부정"
+python3 scripts/lookup_verified_citation.py talmud "아케다 사탄"
+python3 scripts/lookup_verified_citation.py vulgata "요 1:1"
+
+# 출력 텍스트 종합 검증
+echo "...출력 본문..." | python3 scripts/run_all_checks.py -
+```

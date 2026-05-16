@@ -13,9 +13,10 @@
 - **시기 학계 논쟁**: 루터 본인 회상은 1545년 시점이며 정확한 사건 연도를 못 박지 않음. 학자에 따라 1513-1519년 사이로 다양하게 추정. 일반적 학계 다수 견해는 1518-1519년경(Heiko Oberman, Bernhard Lohse 등). 일부는 1513-1515 시편 강해 중(Karl Holl 등). 본 스킬은 *"1517년 전후, 시편·로마서 강의 중으로 추정. 정확한 시기는 학계 논쟁 존재"*로 표현.
 
 ### 갈라디아서 강해(1535) 핵심 명제
-- LW 26, 167 (WA 40/1, 285): *"Iustitia fidei est passiva, qua nihil operamur, sed alii operanti in nobis, scilicet deo, patimur."*
-  - "믿음의 의는 *수동적 의*다 — 우리가 행하는 의가 아니라, *우리 안에서 일하시는 다른 분*, 곧 하나님께 *받는* 의다."
-- LW 26, 132 (WA 40/1, 235): 그리스도와 신자의 *blessed exchange(admirabilis commutatio)* — 그리스도가 우리의 죄·저주·죽음·지옥이 되시고, 우리가 그의 의·축복·생명이 됨.
+- **Argument(서론부) 핵심 진술**: LW 26, 4-7 (WA 40/1, 41-46) — *수동적 의(passive righteousness)*의 가장 명시적 정의가 등장한다. 영역(LW 26, 5): *"This [passive righteousness] is a merely passive righteousness... here we work nothing, render nothing to God; we only receive and permit someone else to work in us, namely, God."* 라틴어 요지(WA 40/1, 43): *"Christianam vero iustitiam... mere passivam, qua tantum patimur."*
+- LW 26, 132 (WA 40/1, 235) — 갈 2:16 주석: 그리스도와 신자의 *blessed exchange(admirabilis commutatio)* — 그리스도가 우리의 죄·저주·죽음·지옥이 되시고, 우리가 그의 의·축복·생명이 됨.
+- LW 26, 167 (WA 40/1, 285) — 갈 2:19-20 주석: 신자가 그리스도와 *연합*하여 *그리스도가 신자 안에서 사신다*는 진술. 수동적 의의 사상이 곳곳에 흐름.
+- **인용 운영 원칙**: *수동적 의(iustitia passiva)* 정형 정의는 *Argument 부분(LW 26, 4-7)*에서 인용하는 것이 가장 안전하다. 본 자료가 본문 자체의 정확한 라틴어 한 문장을 단정 인용할 때는 LW 26, 4-7 (WA 40/1, 41-46) 기준으로 한다.
 
 ### 기독자의 자유(1520) 양면 명제
 - WA 7, 21; LW 31, 344:
@@ -33,7 +34,7 @@
 - 조항 28: *"Amor Dei non invenit sed creat suum diligibile, Amor hominis fit a suo diligibili."* ("하나님의 사랑은 [사랑할 만한 것을] 발견하는 것이 아니라 *창조한다*. 인간의 사랑은 사랑할 만한 것에서 *생긴다*.")
 
 ### CRUX probat omnia
-- 출처: WA 5, 179, 31 — *Operationes in Psalmos*(1519-1521), 시편 5편 강해.
+- 출처: WA 5, 176, 32-33 — *Operationes in Psalmos*(1519-1521), 시편 5편 강해. (학계 표준 인용. 단 본 부근 WA 5, 176-179이 모두 같은 주제 영역.)
 - "십자가가 모든 것을 시험한다."
 
 ---
@@ -41,17 +42,25 @@
 ## 3. 만인제사장직 (Priesthood of All Believers)
 
 ### 독일 그리스도인 귀족에게(1520)
-- WA 6, 407; LW 44, 127: *"Was aus der Taufe gekrochen ist, das mag sich rühmen, daß es schon Priester, Bischof und Papst geweiht sei."* ("세례에서 기어 나온 자는 누구든 자신이 이미 사제·주교·교황으로 안수받았다고 자랑할 수 있다.")
-- **주의**: 이 명제는 *영적 위계 부정*이지 *공식 직분(ministerium) 부정*이 아니다. 루터는 *召命받은 직분*의 필요성을 평생 강하게 주장했다(아우크스부르크 신앙고백 5조 "Ministerium ecclesiasticum"). 본 스킬의 [[common-misreadings]] 참조.
+- WA 6, 407-408; LW 44, 127-129: 16세기 원문(WA 6, 408): *"Was auß der tauff krochen ist, das mag sich rumen, das es schon priester, bischoff und pabst geweyhet sey, ob wol nit einem yglichen zympt, solch ampt zu uben."* 현대 독일어 표기: *"Denn was aus der Taufe gekrochen ist, das kann sich rühmen, daß es schon zum Priester, Bischof und Papst geweiht sei, obwohl es nicht einem jeglichen ziemt, solch Amt auszuüben."*
+- 번역: "세례에서 기어 나온 자는 누구든 자신이 이미 사제·주교·교황으로 안수받았다고 자랑할 수 있다. *다만 모든 사람이 그 직분을 수행하는 것이 합당하지는 않다*."
+- **주의**: 이 명제는 *영적 위계 부정*이지 *공식 직분(ministerium) 부정*이 아니다. 루터 자신이 이 문장의 **후반부**(*"obwohl es nicht einem jeglichen ziemt, solch Amt auszuüben"* — 모두가 그 직분을 수행하는 것이 합당하지는 않다)에서 직분의 질서를 명시한다. 아우크스부르크 신앙고백 5조 *"Ministerium ecclesiasticum"*도 같은 맥락. 본 스킬의 [[common-misreadings]] 참조.
 
 ---
 
 ## 4. 노예의지 (Bondage of the Will)
 
+### 자유의지 정의 — *Assertio omnium articulorum* (1520) 36조
+- **출처 주의**: 학계에서 자주 *"liberum arbitrium est res de solo titulo"*로 약칭 인용되는 정형 명제는 *De Servo Arbitrio*(1525)가 아니라 *Assertio omnium articulorum M. Lutheri per bullam Leonis X. novissimam damnatorum*(1520) 36조 변호다.
+- WA 7, 142-149; (영역: *Collected Works of Erasmus 76*, University of Toronto Press, 1998, 299-310 / 그리고 일부 LW 32권 변호 모음 참조)
+- 정확 명제(라틴어 원문): *"Liberum arbitrium post peccatum res est de solo titulo, et dum facit, quod in se est, peccat mortaliter."*
+- 번역: "타락 이후 자유의지는 *이름뿐인 실체*이며, 자기 안에 있는 것을 행할 때 *죽음에 이르는 죄*를 범한다."
+- 이 명제는 1520년 6월 *Exsurge Domine* 교황 칙서가 정죄한 41개 조항 중 36번을 루터가 반박한 것이며, 후에 *De Servo Arbitrio*(1525)의 토대가 된다.
+
 ### 노예의지론(De Servo Arbitrio, 1525) 핵심 명제
-- WA 18, 635; LW 33, 65: *"Liberum arbitrium est res de solo titulo... humano arbitrio nihil residuum est, nisi diaboli vel Dei servum."* ("자유의지는 빈 이름일 뿐이다... 인간 의지에 남아 있는 것은 사탄의 종이거나 하나님의 종이거나 둘 중 하나뿐이다.")
-- *유명한 짐승 비유* (WA 18, 635; LW 33, 65-66): "인간 의지는 짐을 진 짐승과 같다 — 만약 하나님이 타시면 하나님이 원하시는 곳으로 가고, 사탄이 타시면 사탄이 원하시는 곳으로 간다. 의지는 두 기수 중 어느 쪽이 자기 위에 앉을지 *선택할 수 없다* — 도리어 기수들이 의지를 차지하려고 다툰다."
-- WA 18, 786; LW 33, 295 (결론부): *"contra Erasmum ... contra liberum arbitrium"* — 에라스무스 *자유의지론*(1524) 명시적 반박.
+- WA 18, 635; LW 33, 65-66 — *유명한 짐승 비유*: "인간 의지는 짐을 진 짐승과 같다 — 만약 하나님이 타시면 하나님이 원하시는 곳으로 가고, 사탄이 타시면 사탄이 원하시는 곳으로 간다. 의지는 두 기수 중 어느 쪽이 자기 위에 앉을지 *선택할 수 없다* — 도리어 기수들이 의지를 차지하려고 다툰다."
+- 라틴어 원문(요지, WA 18, 635, 17-22): *"Sic humana voluntas in medio posita est ceu iumentum, si insederit Deus, vult et vadit quo vult Deus... si insederit Satan, vult et vadit quo vult Satan, nec est in eius arbitrio ad utrum sessorem currere... sed ipsi sessores certant ob ipsam obtinendam et possidendam."*
+- WA 18, 786; LW 33, 295 (결론부): 루터의 *De Servo Arbitrio* 마지막 헌사는 *contra Erasmum* 명시적 반박으로 종결 — 에라스무스 *De Libero Arbitrio*(1524) 직접 반박.
 
 ### 루터 자신의 평가
 - 1537년 7월 9일 카피토에게 보낸 편지(WA Br 8, 99): "내 책 중 어느 것도 정당하다고 인정하지 않는다 — 다만 『노예의지론』과 『요리문답』은 예외일 수 있다."

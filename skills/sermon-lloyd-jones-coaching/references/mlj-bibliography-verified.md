@@ -47,8 +47,10 @@
   - Vol. 7: *The Christian Warfare* (Ephesians 6:10–13)
   - Vol. 8: *The Christian Soldier* (Ephesians 6:10–20)
 
-**산상수훈**: **2권** (1959–1960 IVP, 단권본 합본도 존재)
-- *Studies in the Sermon on the Mount*, 2 vols., Inter-Varsity Press / Eerdmans (단권 합본)
+**산상수훈**: **2권** (강해 시기 vs. 출간 시기 구분 필수)
+- *강해 시기*: Westminster Chapel Sunday morning, **1950–1952** (Murray, *Fight of Faith* ch. 18 표준).
+- *출간*: *Studies in the Sermon on the Mount*, Vol. 1 (Inter-Varsity Press, 1959) · Vol. 2 (Inter-Varsity Press, 1960). 단권 합본은 후일(Eerdmans 1971/1976) 출간.
+- 본 스킬 인용 시 *강해 시기*와 *출간 시기*를 혼동하지 않는다.
 
 ### C. 신학·영성 단행본
 
@@ -104,12 +106,13 @@
 
 ## 4-B. Westminster Chapel 사역 연대 — 정확화
 
-- **1938년 9월**: 임시 강단 보좌(pulpit supply)로 Morgan 옆에서 격주 설교.
-- **1938년 10월**: 회중이 만장일치 부름.
-- **1939년 4월 23일**: 정식 *associate minister*로 임명, G. Campbell Morgan과 공동 사역.
+- **1938년 가을**: 임시 강단 보좌(pulpit supply)로 Morgan 옆에서 설교 시작. 자료에 따라 *1938년 9월/10월* 표기.
+- **1938년 말**: 회중이 만장일치로 부름.
+- **1939년 4월**: 정식 *associate minister*로 임명, G. Campbell Morgan과 공동 사역(보통 1939년 4월 또는 1939년 4월 (Easter) 표기. Murray *First Forty Years* 참고. 정확한 *날짜* 단정은 회피).
 - **1943년**: Morgan 은퇴 후 단독 목사(sole pastor).
-- **1968년 3월 1일**: 은퇴 (직장암 진단 후). 마지막 강해는 1968년 3월 1일 로마서 14:17 설교.
-- 본 스킬은 "1939–1968"로 일반 표기, 필요 시 위 연대 세부 사용.
+- **1968년 3월 1일**: 마지막 정규 강해(Friday Night Lecture, 로마서 14:17). 직후 **심각한 질병 진단 → 대수술**. *직장암*(bowel/colon cancer)으로 *단정* 인용된 자료가 있으나 Murray *Fight of Faith* ch. 24·MLJ Trust 공식 표기는 *major operation*·*serious illness*. 본 스킬은 *특정 진단명 단정 회피* — *심각한 질병 진단 후 대수술* 또는 *1968년 봄 건강상의 이유* 일반화.
+- **1968년 8월 30일**: 공식 사임 발표(Murray *Fight of Faith* ch. 24).
+- 본 스킬은 *"1939–1968"* 일반 표기, 필요 시 위 연대 세부 사용.
 - 출처: Murray, *The Fight of Faith* chs. 1–3, ch. 24 (은퇴).
 
 ---
@@ -140,4 +143,4 @@
 
 - **특정 본문에 대한 MLJ 강해**: Banner of Truth 인쇄본 시리즈(로마서 14권, 에베소서 8권, 산상수훈 2권) 외 본문은 MLJ Trust 녹음 목록을 직접 확인하지 않으면 *MLJ가 이 본문을 직접 설교했다*고 단정 금지. 일반 원칙으로 우회.
 - **MLJ의 은사 입장**: strict cessationist도 strict continuationist도 아닌 중간 입장 — *Joy Unspeakable*과 *The Sovereign Spirit*에 표현. 단정 회피.
-- **MLJ vs Billy Graham**: 1955년 Graham London Crusade에 대한 MLJ의 입장은 미묘 — 결단 호소 방식에 의문은 있었으나 Graham 자체를 폄하하지 않았다. Murray *Fight of Faith* ch. 16 표준 인용.
+- **MLJ vs Billy Graham**: **1954년** Graham *London Crusade*(1954-03-01~05-22, Harringay Arena 12주)에 대한 MLJ의 입장은 미묘 — *altar call* 등 결단 호소 방식에 의문은 있었으나 Graham 자체를 폄하하지 않았다. Murray *Fight of Faith* ch. 16 표준 인용. **주의**: *1955년*은 *Glasgow All-Scotland Crusade*(1955-03-21~04-30, Kelvin Hall) — 별개 사건. 두 사건을 묶어 *1954–1955 영국 사역*으로 일반화 표기 가능하나, *London Crusade* 단독 인용 시는 *1954년*이 정확.
